@@ -43,3 +43,12 @@ Le module 1 débute à la rentrée.
 
 ## Progression du groupe B
 
+### Séance 1 - 05/09
+
+- Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
+- Présentation du programme du module 1
+- *Partie 1 : Ingénierie Sociale*
+  - Techniques d'hameçonnage, _phishing_, _smishing_, concepts de _spamming_, _vishing_, hameçonnage ciblé, attaque « Fraude au Président »
+  - _Dumpster Diving_, _Shoulder Surfing_
+  - Notion de rapport sécurité/coût : où placer le « curseur » ?
+
