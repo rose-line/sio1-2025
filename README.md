@@ -50,6 +50,16 @@ Le module 1 débute à la rentrée.
   - _Dumpster Diving_, _Shoulder Surfing_
   - Notion de rapport sécurité/coût : où placer le « curseur » ?
 
+### Séance 2 - 07/09
+
+- *Module 1 Partie 1 - Ingénierie Sociale*
+  - Dévoiement (notions d'empoisonnement DNS)
+  - Récolte d'identifiants de connexion et _Credential Stuffing_
+  - _Tailgating_, _Prepending_ (+ utilisation d'IA)
+  - Usurpation d'identité, typosquattage
+  - Attaque de point d'eau
+  - Sécurité physique : conséquences et bonnes pratiques
+
 ## Progression du groupe B
 
 ### Séance 1 - 05/09
