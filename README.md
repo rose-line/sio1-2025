@@ -60,9 +60,18 @@ Le module 1 débute à la rentrée.
   - Attaque de point d'eau
   - Sécurité physique : conséquences et bonnes pratiques
 
+### Séance 3 - Jeudi 14/09
+
+- *Module 1 Partie 1 - Ingénierie Sociale*
+  - Sécurité des laptops
+  - Efficacité de l'IS : principes d'autorité, d'intimisation, d'acceptation sociale, de familiarité, de confiance, de caractère d'urgence et de peur
+
+- *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
+  - Indicateurs de compromission : définition et exemples
+
 ## Progression du groupe B
 
-### Séance 1 - 05/09
+### Séance 1 - Mardi 05/09
 
 - Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
 - Présentation du programme du module 1
@@ -71,7 +80,7 @@ Le module 1 débute à la rentrée.
   - _Dumpster Diving_, _Shoulder Surfing_
   - Notion de rapport sécurité/coût : où placer le « curseur » ?
 
-### Séance 2 - 07/09
+### Séance 2 -  Jeudi 07/09
 
 - *Module 1 Partie 1 - Ingénierie Sociale*
   - Dévoiement (notions d'empoisonnement DNS)
@@ -79,7 +88,7 @@ Le module 1 débute à la rentrée.
   - _Tailgating_, _Prepending_ (+ utilisation d'IA)
   - Usurpation d'identité
 
-### Séance 3 - 12/09
+### Séance 3 - Mardi 12/09
 
 - *Module 1 Partie 1 - Ingénierie Sociale*
   - Typosquattage
@@ -91,7 +100,7 @@ Le module 1 débute à la rentrée.
 - *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
   - Indicateurs de compromission : définition et exemples
 
-### Séance 4 - 14/09
+### Séance 4 - Jeudi 14/09
 
 - *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
   - Malwares : généralités
