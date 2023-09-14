@@ -90,3 +90,15 @@ Le module 1 débute à la rentrée.
 
 - *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
   - Indicateurs de compromission : définition et exemples
+
+### Séance 4 - 14/09
+
+- *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
+  - Malwares : généralités
+  - Prévention fondamentale
+  - Examen de plusieurs types de malwares :
+    - Virus
+    - Ver
+    - PUP (programme potentiellement indésirable)
+    - Cheval de Troie
+    - Malware « zombie » et botnets
