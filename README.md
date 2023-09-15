@@ -69,6 +69,28 @@ Le module 1 débute à la rentrée.
 - *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
   - Indicateurs de compromission : définition et exemples
 
+### Séances 4 et 5 - Vendredi 15/09
+
+- *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
+  - Malwares : généralités
+  - Prévention fondamentale
+  - Examen de plusieurs types de malwares :
+    - Virus
+    - Ver
+    - PUP (programme potentiellement indésirable)
+    - Cheval de Troie
+    - Malware « zombie » et botnets
+    - Bombe logique
+    - Logiciel espion
+    - Keylogger
+    - Rootkit
+    - Porte dérobée (_backdoor_)
+    - Spraying
+    - Attaques par rétrogadation
+    - Attaques par périphérique externe
+
+### Jeudi 21/09 : journée d'intégration
+
 ## Progression du groupe B
 
 ### Séance 1 - Mardi 05/09
@@ -111,3 +133,5 @@ Le module 1 débute à la rentrée.
     - PUP (programme potentiellement indésirable)
     - Cheval de Troie
     - Malware « zombie » et botnets
+
+### Jeudi 21/09 : journée d'intégration
