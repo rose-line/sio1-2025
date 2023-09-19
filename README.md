@@ -134,4 +134,18 @@ Le module 1 débute à la rentrée.
     - Cheval de Troie
     - Malware « zombie » et botnets
 
+### Séance 5 - Mardi 19/09
+
+- *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
+  - Examen de plusieurs types de malwares :
+    - Malware « zombie » et botnets
+    - Bombe logique
+    - Logiciel espion
+    - Keylogger
+    - Rootkit
+    - Porte dérobée (_backdoor_)
+    - Spraying
+    - Attaques par rétrogadation
+    - Attaques par périphérique externe
+
 ### Jeudi 21/09 : journée d'intégration
