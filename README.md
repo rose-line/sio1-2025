@@ -85,9 +85,9 @@ Le module 1 débute à la rentrée.
     - Keylogger
     - Rootkit
     - Porte dérobée (_backdoor_)
-    - Spraying
-    - Attaques par rétrogadation
-    - Attaques par périphérique externe
+  - Spraying
+  - Attaques par rétrogadation
+  - Attaques par périphérique externe
 
 ### Jeudi 21/09 : journée d'intégration
 
@@ -144,8 +144,8 @@ Le module 1 débute à la rentrée.
     - Keylogger
     - Rootkit
     - Porte dérobée (_backdoor_)
-    - Spraying
-    - Attaques par rétrogadation
-    - Attaques par périphérique externe
+  - Spraying
+  - Attaques par rétrogadation
+  - Attaques par périphérique externe
 
 ### Jeudi 21/09 : journée d'intégration
