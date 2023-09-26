@@ -174,3 +174,22 @@ Le module 1 débute à la rentrée.
   - Attaques par périphérique externe
 
 ### Jeudi 21/09 : journée d'intégration
+
+### Séance 6 - Mardi 26/09
+
+- *Module 1 Partie 2 - Malwares et autres schémas d'attaque*
+  - Attaque de la chaîne logistisque (_supply chain_)
+  - Migration vers le cloud vs. infrastructure « sur site » : avantages et inconvénients d'un point de vue cybersécurité
+  - Rançongiciel (_ransomware_)
+
+- *Module 1 Partie 3 - Attaques réseau*
+  - Attaque de l'homme du milieu (_MitM_)
+  - Attaques Wi-Fi :
+    - _Jamming_
+    - Point d'accès pirate (_rogue_)
+    - Jumeau malveillant (_evil twin_)
+    - Dissociation (exemple avec `aircrack-ng`)
+  - Attaques bluetooth :
+    - _Bluejacking_
+    - _Bluesnarfing_
+    - _Bluebugging_
