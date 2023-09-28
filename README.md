@@ -116,6 +116,8 @@ Le module 1 débute à la rentrée.
   - Usurpation d'adrsse IP
   - Attaque en déni de service distribuée (_DDoS_)
 
+- **Interro prévue jeudi 28/09** : Module 1 - Partie 1 et 2
+
 ## Progression du groupe B
 
 ### Séance 1 - Mardi 05/09
