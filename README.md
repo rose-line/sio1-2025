@@ -192,4 +192,13 @@ Le module 1 débute à la rentrée.
   - Attaques bluetooth :
     - _Bluejacking_
     - _Bluesnarfing_
-    - _Bluebugging_
+
+- **Interro prévue jeudi 28/09** : Module 1 - Partie 1 et 2
+
+### Séance 7 - Jeudi 28/09
+
+- Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2
+
+- *Module 1 Partie 3 - Attaques réseau*
+  - Standards de chiffrement Wi-Fi
+  - Attaque de vecteur d'initialisation
