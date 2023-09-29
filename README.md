@@ -131,8 +131,20 @@ Le module 1 débute à la rentrée.
 
 - Interro B3_S1_INT01_20230928 : B3 Module 1 - Partie 1 et 2
 
-- B1 Module 1 - Introduction à la programmation
+- *B1 Module 1 - Introduction à la programmation*
   - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
+
+### Séances 9 et 10 - Vendredi 29/09
+
+- *B1 Module 1 - Introduction à la programmation*
+  - Notions d'_ordinateur_, de _programme_, de _langage de programmation_, de _code source_
+  - Historique de la programmation et différences-clés entres langages populaires
+  - Notion d'_algorithme_
+  - Présentation du langage Java
+  - Exemple de problème : calcul d'un salaire brut
+    - algorithme
+    - implémentation en Java
+  - Exercice à terminer pour la prochaine séance : _texte à trous_
 
 ## Progression du groupe B
 
