@@ -49,6 +49,12 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 ### B1 Module 1 : Introduction à la programmation
 
+- Liens vers les dépôts supports pour ce module :
+
+  - [Groupe A ](https://github.com/rose-line/sio2025-intro-java-grp-a)
+
+  - Groupe B : [à venir]
+
 - Notions de base et terminologie sur la programmation
 
 - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
