@@ -8,7 +8,7 @@ Ce dépôt contiendra les ressources et les progressions associées aux cours de
 
 - [Progression du groupe B](progressionGrB.md)
 
-## Modules des cours et ressources
+## Organisation des cours et modules
 
 - **Bloc 1 (B1) - Support et mise à disposition de services informatiques**
 
@@ -43,7 +43,7 @@ Ce dépôt contiendra les ressources et les progressions associées aux cours de
 
 Les cours sont organisés en **modules**. Cela signifie notamment que l'on va travailler *exclusivement* sur un module pendant plusieurs heures ou plusieurs semaines d'affilée (en fonction de la « taille » du module). Ainsi, lorsque nous abordons par exemple un module de cybersécurité, nous savons que nous ne ferons ensemble *que ça* jusqu'à ce que le module soit terminé. Cela réduit les risques de « dispersion » : il est plus facile d'appréhender les notions dans leur contexte lorsque ce contexte ne change pas constamment.
 
-## B1 - Bases de la programmation
+## Ressources B1 - Bases de la programmation
 
 Les modules de *B1 Bases de la programmation* commencent fin septembre.
 
@@ -61,9 +61,9 @@ Les modules de *B1 Bases de la programmation* commencent fin septembre.
 
 - Introduction aux bonnes pratiques de programmation
 
-## B3 - Cybersécurité
+## Ressources B3 - Cybersécurité
 
-Le module 1 débute à la rentrée.
+Le module 1 de cybersécurité débute à la rentrée.
 
 ### B3 Module 1 : Attaques et vulnérabilités communes
 
