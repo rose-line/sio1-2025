@@ -45,7 +45,7 @@ Les cours sont organisés en **modules**. Cela signifie notamment que l'on va tr
 
 ## Ressources B1 - Bases de la programmation
 
-Les modules de *B1 Bases de la programmation* commencent fin septembre.
+Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 ### B1 Module 1 : Introduction à la programmation
 
@@ -60,6 +60,10 @@ Les modules de *B1 Bases de la programmation* commencent fin septembre.
 - Types de données simples : entiers, flottants, booléens, chaînes de caractères
 
 - Introduction aux bonnes pratiques de programmation
+
+## Ressources B2 - Spécialité SLAM
+
+Les modules de *B2 Spécialité SLAM* débutent au semestre 2.
 
 ## Ressources B3 - Cybersécurité
 
