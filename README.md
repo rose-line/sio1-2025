@@ -69,6 +69,6 @@ Le module 1 débute à la rentrée.
 
 - Partie 1 : [Ingénierie Sociale](bloc3/M1.1_ingenierie_sociale.pdf)
 
-- Partie 2 : [Malwares et autres schémas d'attaque (attaques sur l'hôte)](bloc3/M1.2_malwares.pdf)
+- Partie 2 : [Malwares et autres schémas d'attaque (attaques sur l'hôte)](bloc3/M1.2_malwares_et_autres.pdf)
 
-- Partie 3 : Attaques réseau
+- Partie 3 : [Attaques réseau](bloc3/M1.3_attaques_reseau.pdf)
