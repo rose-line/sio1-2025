@@ -63,7 +63,7 @@ Les modules de *B1 Bases de la programmation* commencent fin septembre.
 
 ## Ressources B3 - Cybersécurité
 
-Le module 1 de cybersécurité débute à la rentrée.
+Le module 1 de *B3 Cybersécurité* débute à la rentrée.
 
 ### B3 Module 1 : Attaques et vulnérabilités communes
 
