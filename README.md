@@ -51,7 +51,7 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 - Liens vers les dépôts supports pour ce module :
 
-  - [Groupe A ](https://github.com/rose-line/sio2025-intro-java-grp-a)
+  - [Groupe A ](https://github.com/rose-line/sio2025-GA-intro-java)
 
   - Groupe B : [à venir]
 
