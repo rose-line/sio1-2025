@@ -1,6 +1,6 @@
 # Dépôt support SIO1 2023-2024
 
-Ce dépôt contiendra les ressources et les progressions associées aux cours de Bloc 1, 2 et 3.
+Ce dépôt contiendra les ressources et les progressions associées aux cours de Bloc 1, 2 et 3 spécifiés ci-dessous.
 
 ## Progression des groupes (1er semestre)
 
