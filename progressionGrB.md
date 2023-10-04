@@ -1,94 +1,14 @@
 ## Progression du groupe B
 
-### Séance 1 - Mardi 05/09
+### Séance 7 - Jeudi 28/09
 
-- Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
+- **Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2**
 
-- Présentation du programme du module 1
+- ***B3 Module 1 Partie 3 - Attaques réseau***
 
-- ***B3 Module 1 Partie 1 : Ingénierie Sociale***
+  - Standards de chiffrement Wi-Fi
 
-  - Techniques d'hameçonnage, _phishing_, _smishing_, concepts de _spamming_, _vishing_, hameçonnage ciblé, attaque « Fraude au Président »
-
-  - _Dumpster Diving_, _Shoulder Surfing_
-
-  - Notion de rapport sécurité/coût : où placer le « curseur » ?
-
-### Séance 2 -  Jeudi 07/09
-
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
-
-  - Dévoiement (notions d'empoisonnement DNS)
-
-  - Récolte d'identifiants de connexion et _Credential Stuffing_
-
-  - _Tailgating_, _Prepending_ (+ utilisation d'IA)
-
-  - Usurpation d'identité
-
-### Séance 3 - Mardi 12/09
-
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
-
-  - Typosquattage
-
-  - Attaque de point d'eau
-
-  - Sécurité physique : conséquences et bonnes pratiques
-
-  - Sécurité des laptops
-
-  - Efficacité de l'IS : principes d'autorité, d'intimisation, d'acceptation sociale, de familiarité, de confiance, de caractère d'urgence et de peur
-
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
-
-  - Indicateurs de compromission : définition et exemples
-
-### Séance 4 - Jeudi 14/09
-
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
-
-  - Malwares : généralités
-
-  - Prévention fondamentale
-
-  - Examen de plusieurs types de malwares :
-
-    - Virus
-
-    - Ver
-
-    - PUP (programme potentiellement indésirable)
-
-    - Cheval de Troie
-
-    - Malware « zombie » et botnets
-
-### Séance 5 - Mardi 19/09
-
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
-
-  - Examen de plusieurs types de malwares :
-
-    - Malware « zombie » et botnets
-
-    - Bombe logique
-
-    - Logiciel espion
-
-    - Keylogger
-
-    - Rootkit
-
-    - Porte dérobée (_backdoor_)
-
-  - Spraying
-
-  - Attaques par rétrogadation
-
-  - Attaques par périphérique externe
-
-### Jeudi 21/09 : journée d'intégration
+  - Attaque de vecteur d'initialisation
 
 ### Séance 6 - Mardi 26/09
 
@@ -122,12 +42,92 @@
 
 - **Interro prévue jeudi 28/09** : B3 Module 1 - Partie 1 et 2
 
-### Séance 7 - Jeudi 28/09
+### Jeudi 21/09 : journée d'intégration
 
-- **Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2**
+### Séance 5 - Mardi 19/09
 
-- ***B3 Module 1 Partie 3 - Attaques réseau***
+- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
-  - Standards de chiffrement Wi-Fi
+  - Examen de plusieurs types de malwares :
 
-  - Attaque de vecteur d'initialisation
+    - Malware « zombie » et botnets
+
+    - Bombe logique
+
+    - Logiciel espion
+
+    - Keylogger
+
+    - Rootkit
+
+    - Porte dérobée (_backdoor_)
+
+  - Spraying
+
+  - Attaques par rétrogadation
+
+  - Attaques par périphérique externe
+
+### Séance 4 - Jeudi 14/09
+
+- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+
+  - Malwares : généralités
+
+  - Prévention fondamentale
+
+  - Examen de plusieurs types de malwares :
+
+    - Virus
+
+    - Ver
+
+    - PUP (programme potentiellement indésirable)
+
+    - Cheval de Troie
+
+    - Malware « zombie » et botnets
+
+### Séance 3 - Mardi 12/09
+
+- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+
+  - Typosquattage
+
+  - Attaque de point d'eau
+
+  - Sécurité physique : conséquences et bonnes pratiques
+
+  - Sécurité des laptops
+
+  - Efficacité de l'IS : principes d'autorité, d'intimisation, d'acceptation sociale, de familiarité, de confiance, de caractère d'urgence et de peur
+
+- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+
+  - Indicateurs de compromission : définition et exemples
+
+### Séance 2 -  Jeudi 07/09
+
+- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+
+  - Dévoiement (notions d'empoisonnement DNS)
+
+  - Récolte d'identifiants de connexion et _Credential Stuffing_
+
+  - _Tailgating_, _Prepending_ (+ utilisation d'IA)
+
+  - Usurpation d'identité
+
+### Séance 1 - Mardi 05/09
+
+- Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
+
+- Présentation du programme du module 1
+
+- ***B3 Module 1 Partie 1 : Ingénierie Sociale***
+
+  - Techniques d'hameçonnage, _phishing_, _smishing_, concepts de _spamming_, _vishing_, hameçonnage ciblé, attaque « Fraude au Président »
+
+  - _Dumpster Diving_, _Shoulder Surfing_
+
+  - Notion de rapport sécurité/coût : où placer le « curseur » ?
