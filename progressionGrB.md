@@ -1,5 +1,23 @@
 ## Progression du groupe B
 
+### Séance 8 - Mardi 03/10
+
+- ***B3 Module 1 Partie 3 - Attaques réseau***
+
+  - Attaque _Man in the Browser_
+
+  - Empoisonnement ARP
+
+  - Usurpation d'adrsse IP
+
+  - Attaque en déni de service distribuée (_DDoS_)
+
+- ***B1 Module 1 - Introduction à la programmation***
+
+  - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
+
+  - Configuration d'un premier projet
+
 ### Séance 7 - Jeudi 28/09
 
 - **Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2**

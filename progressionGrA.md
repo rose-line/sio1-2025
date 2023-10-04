@@ -28,6 +28,8 @@
 
   - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
 
+  - Configuration d'un premier projet
+
 ### Séances 6 et 7 - Vendredi 22/09
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
