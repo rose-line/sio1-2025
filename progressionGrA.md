@@ -1,5 +1,21 @@
 ## Progression groupe A
 
+### Séance 11 - Jeudi 05/10
+
+- ***B1 Module 1 - Introduction à la programmation***
+
+  - Correction de l'exercice « texte à trous »
+
+- ***B1 Module 2 - Bases***
+
+  - Structures conditionnelles
+
+    - Prise de décision
+
+    - Instruction IF
+
+    - Implémentation en autonomie du programme de calcul de salaire avec prime conditionnée
+
 ### Séances 9 et 10 - Vendredi 29/09
 
 - ***B1 Module 1 - Introduction à la programmation***
@@ -18,7 +34,7 @@
 
     - implémentation en Java
 
-  - Exercice à terminer pour la prochaine séance : _texte à trous_
+  - Exercice à terminer pour la prochaine séance : « texte à trous »
 
 ### Séance 8 - Jeudi 28/09
 
