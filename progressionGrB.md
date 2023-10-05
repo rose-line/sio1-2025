@@ -1,5 +1,21 @@
 ## Progression du groupe B
 
+### Séance 9 - Jeudi 05/10
+
+- ***B1 Module 1 - Introduction à la programmation***
+
+  - Notions d'_ordinateur_, de _programme_, de _langage de programmation_, de _code source_
+
+  - Historique de la programmation et différences-clés entres langages populaires
+
+  - Notion d'_algorithme_
+
+  - Exemple de problème : calcul d'un salaire brut
+
+    - algorithme
+
+    - première implémentation en Java
+
 ### Séance 8 - Mardi 03/10
 
 - ***B3 Module 1 Partie 3 - Attaques réseau***
