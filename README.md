@@ -51,9 +51,10 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 - Liens vers les dépôts supports pour ce module :
 
-  - [Groupe A ](https://github.com/rose-line/sio2025-GA-intro-java)
+  - [Groupe A programme support de cours ](https://github.com/rose-line/sio2025-GA-intro-java)
+  - [Groupe A exercice « texte à trous » ](https://github.com/rose-line/sio2025-texte-a-trous)
 
-  - Groupe B : [à venir]
+  - [Groupe B programme support de cours ](https://github.com/rose-line/sio2025-GB-intro-java)
 
 - Notions de base et terminologie sur la programmation
 
@@ -66,6 +67,10 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 - Types de données simples : entiers, flottants, booléens, chaînes de caractères
 
 - Introduction aux bonnes pratiques de programmation
+
+### B1 Module 2 : Bases de la programmation
+
+
 
 ## Ressources B2 - Spécialité SLAM
 
