@@ -60,6 +60,8 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
 
+  - [Procédure d'installation à utiliser](bloc1/installation_ide.md)
+
 - Implémentation de programmes simples en Java
 
 - Notions de _variable typée_, d'_entrée_, de _sortie_
