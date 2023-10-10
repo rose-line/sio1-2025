@@ -1,5 +1,17 @@
 ## Progression du groupe B
 
+### Séances 10 - Mardi 10/10
+
+- ***B1 Module 1 - Introduction à la programmation***
+
+  - Présentation du langage Java
+
+  - Retour sur le problème du calcul du salaire brut : améliorations et bonnes pratiques
+
+  - Implémentation du problème « texte à trous » et correction
+
+- **Interro prévue jeudi 12/10** : B1 Module 1 - Introduction à la programmation
+
 ### Séance 9 - Jeudi 05/10
 
 - ***B1 Module 1 - Introduction à la programmation***
