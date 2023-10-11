@@ -1,12 +1,34 @@
 ## Progression groupe A
 
+### Séances 12 et 13 - Vendredi 06/10
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures conditionnelles
+
+  - Correction du programme de calcul de salaire avec prime conditionnée
+
+  - Opérateurs relationnels
+
+  - Instruction IF/ELSE
+
+  - Implémentation du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut
+
+  - Instruction IF / ELSE IF
+
+  - Présentation du problème « d'association d'une couleur à une note » (corrigé dans les slides)
+
+  - Opérateurs logiques
+
+  - Implémentation en autonomie du problème « d'obtention conditionnée d'un prêt bancaire »
+
 ### Séance 11 - Jeudi 05/10
 
 - ***B1 Module 1 - Introduction à la programmation***
 
   - Correction de l'exercice « texte à trous »
 
-- ***B1 Module 2 - Bases***
+- ***B1 Module 2 - Bases de la programmation***
 
   - Structures conditionnelles
 
