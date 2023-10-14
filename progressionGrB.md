@@ -1,5 +1,25 @@
 ## Progression du groupe B
 
+### Séance 11 - Jeudi 12/10
+
+- **Interro B1__BDP_M1_GB_20231012 : Introduction à la programmation**
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures conditionnelles
+
+    - Prise de décision
+
+    - Instruction IF
+
+    - Implémentation du programme de calcul de salaire avec prime conditionnée
+
+    - Opérateurs relationnels
+
+    - Instruction IF/ELSE
+
+    - Implémentation en autonomie du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut - **à terminer pour la prochaine séance**
+
 ### Séances 10 - Mardi 10/10
 
 - ***B1 Module 1 - Introduction à la programmation***
