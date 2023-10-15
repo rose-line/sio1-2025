@@ -1,26 +1,44 @@
 ## Progression groupe A
 
+### Séance 14 - Jeudi 12/10
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures conditionnelles
+
+    - Correction du problème « Obtention conditionnée d'un prêt bancaire » 
+
+    - Étude du problème « Café-crème » : structure IF / ELSE IF / ELSE
+
+  - Structures répétitives
+
+    - Principe de la « boucle »
+
+    - Instruction TANT QUE (_while_)
+
+    - Étude et implémentation du problème « Validation du nombre d'heures travaillées »
+
 ### Séances 12 et 13 - Vendredi 06/10
 
 - ***B1 Module 2 - Bases de la programmation***
 
   - Structures conditionnelles
 
-  - Correction du programme de calcul de salaire avec prime conditionnée
+    - Correction du programme de calcul de salaire avec prime conditionnée
 
-  - Opérateurs relationnels
+    - Opérateurs relationnels
 
-  - Instruction IF/ELSE
+    - Instruction IF/ELSE
 
-  - Implémentation du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut
+    - Étude et implémentation du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut
 
-  - Instruction IF / ELSE IF
+    - Instruction IF / ELSE IF
 
-  - Présentation du problème « d'association d'une couleur à une note » (corrigé dans les slides)
+    - Présentation du problème « d'association d'une couleur à une note » (corrigé dans les slides)
 
-  - Opérateurs logiques
+    - Opérateurs logiques
 
-  - Implémentation en autonomie du problème « d'obtention conditionnée d'un prêt bancaire »
+    - Étude et implémentation en autonomie du problème « d'obtention conditionnée d'un prêt bancaire » : **à terminer pour la prochaine séance**
 
 ### Séance 11 - Jeudi 05/10
 
@@ -36,7 +54,7 @@
 
     - Instruction IF
 
-    - Implémentation en autonomie du programme de calcul de salaire avec prime conditionnée
+    - Étude et implémentation en autonomie du programme de calcul de salaire avec prime conditionnée : **à terminer pour la prochaine séance**
 
 ### Séances 9 et 10 - Vendredi 29/09
 
