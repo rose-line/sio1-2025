@@ -1,5 +1,21 @@
 ## Progression groupe A
 
+### Séances 15 et 16 - Vendredi 13/10
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures répétitives
+
+    - Instruction FAIRE TANT QUE (_do while_)
+
+    - Reprise du problème précédent avec une boucle _do while_
+
+    - Instruction POUR (_for_)
+
+    - Étude et implémentation du problème « Calcul du total d'un panier d'articles »
+
+    - Étude et implémentation du problème « Jeu de l'Oie » : **à terminer pour la prochaine séance**
+
 ### Séance 14 - Jeudi 12/10
 
 - ***B1 Module 2 - Bases de la programmation***
