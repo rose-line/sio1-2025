@@ -38,6 +38,24 @@
 
 - ***B1 Module 2 - Bases de la programmation***
 
+  - Gestion de versions avec Git
+
+    - Présentation de Git et de GitHub
+
+    - Création du compte GitHub (github.com)
+
+    - Installation de Git (git-scm.com)
+
+    - Configuration locale
+
+      - `git config --global user.name "Jean Dupont"`
+
+      - `git config --global user.email jean.dupont@gmail.com"`
+
+    - Création locale d'un dépôt Git et publication d'un projet sur GitHub
+
+    - Concept de commit local avec message et synchronisation avec GitHub
+
   - Structures conditionnelles
 
     - Correction du programme de calcul de salaire avec prime conditionnée
