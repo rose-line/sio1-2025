@@ -18,7 +18,7 @@ Ce dépôt contiendra les ressources et les progressions associées aux cours de
     - Bases de la programmation (Java)
     - Programmation événementielle et développement de client lourd (JavaFX)
 
-  - semestre 2
+  - semestre 2 (non définitif)
 
     - programmation client Web (JavaScript)
     - introduction aux API REST (Node.js)
