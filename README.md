@@ -72,7 +72,8 @@ Les modules de *B1 Bases de la programmation* débutent fin septembre.
 
 ### B1 Module 2 : Bases de la programmation
 
-
+- [Module 1 Introduction à la programmation](bloc1/java_01_vars_sol.pdf)
+- [Module 2 Bases de la programmation](bloc1/jav_02_conditions_inc.pdf) (complété au fur et à mesure de l'avancement)
 
 ## Ressources B2 - Spécialité SLAM
 
