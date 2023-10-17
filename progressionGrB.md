@@ -1,8 +1,44 @@
 ## Progression du groupe B
 
+### Séance 12 - Mardi 17/10
+
+- **Correction** interro B1_BDP_M1_GB_20231012 : Introduction à la programmation
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - ***B1 Module 2 - Bases de la programmation***
+
+    - Gestion de versions avec Git
+
+      - Présentation de Git et de GitHub
+
+      - Création du compte GitHub (github.com)
+
+      - Installation de Git (git-scm.com)
+
+      - Configuration locale
+
+        - `git config --global user.name "Jean Dupont"`
+
+        - `git config --global user.email jean.dupont@gmail.com"`
+
+      - Création locale d'un dépôt Git et publication d'un projet sur GitHub
+
+      - Concept de commit local avec message et synchronisation avec GitHub
+
+  - Structures conditionnelles
+
+    - Correction du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut
+
+    - Étude et implémentation du problème « d'association d'une couleur à une note » (corrigé dans les slides)
+
+    - Opérateurs logiques
+
+    - Étude et implémentation du problème « d'obtention conditionnée d'un prêt bancaire » : **à terminer pour la prochaine séance**
+
 ### Séance 11 - Jeudi 12/10
 
-- **Interro B1__BDP_M1_GB_20231012 : Introduction à la programmation**
+- **Interro B1_BDP_M1_GB_20231012 : Introduction à la programmation**
 
 - ***B1 Module 2 - Bases de la programmation***
 
