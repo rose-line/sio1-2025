@@ -4,6 +4,22 @@
 
 - [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro B1_BDP_M1_GB_20231012 Introduction à la programmation
 
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures conditionnelles
+
+    - Correction du problème « d'obtention conditionnée d'un prêt bancaire » 
+
+  - Structures répétitives
+
+    - Principe de la « boucle »
+
+    - Instruction TANT QUE (_while_)
+
+    - Étude et implémentation du problème « Validation du nombre d'heures travaillées »
+
+    - Étude et implémentation du problème « Café-crème » **à faire pour la rentrée (mettre sur GitHub)**
+
 ### Séance 12 - Mardi 17/10
 
 - ***B1 Module 2 - Bases de la programmation***
