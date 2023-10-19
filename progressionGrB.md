@@ -1,5 +1,9 @@
 ## Progression du groupe B
 
+### Séance 13 - Jeudi 19/10
+
+- [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro B1_BDP_M1_GB_20231012 Introduction à la programmation
+
 ### Séance 12 - Mardi 17/10
 
 - ***B1 Module 2 - Bases de la programmation***
