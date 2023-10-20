@@ -1,5 +1,15 @@
 ## Progression groupe A
 
+### Séance 17 - Jeudi 19/10
+
+- [Correction](bloc1/B1_BDP_M1_M2_GA_20231012_correction.java) de l'interro [B1_BDP_M1_M2_GA_20231012](bloc1/B1_BDP_M1_M2_GA_20231012_sujet.adoc) Introduction à la programmation et instructions conditionnelles
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures répétitives
+
+    - Étude et implémentation en autonomie du problème « Jeu de l'Oie »  : V1 et V2
+
 ### Séances 15 et 16 - Vendredi 13/10
 
 - ***B1 Module 2 - Bases de la programmation***
