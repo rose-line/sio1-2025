@@ -1,0 +1,61 @@
+== B1_BDP_M1-M2_GA_20231012
+:source-highlighter: highlight.js
+
+*Vous répondrez directement sur cette feuille*. Indiquez vos *_nom, prénom et groupe_* :
+
+=== Partie I
+
+*01* En Java, de quel *type* doit être une expression qui se trouve entre les parenthèses d'une instruction `if` ? Quelle sont les *valeurs possibles* pour cette expression ?
+
+{empty} +
+
+*02* Donnez le code Java qui permet de *définir* une variable contenant la valeur `"Highway To Hell"`.
+
+{empty} +
+
+=== Partie II
+
+On vous demande d'écrire le programme Java répondant aux besoins ci-dessous. On considère que le code que vous fournirez sera placé entre les deux accolades de la méthode `main` du fichier Java. Vous fournirez, dans votre programme, l'*algorithme* que vous avez utilisé pour répondre au problème posé, sous forme de *commentaires Java* que vous placerez à chaque fois juste au-dessus de l'implémentation correspondante, comme nous l'avons fait en cours.
+
+Le but est de programmer une version très basique d'un jeu : « Devinez le nombre ». Lors de l'exécution, on souhaite avoir *exactement* la sortie suivante à l'écran :
+
+[source,text]
+----
+Je pense à un nombre entre 1 et 100 inclus. Devinez lequel.
+Entrez un nombre : 36
+Vous avez proposé 36
+Vous avez perdu !
+Le nombre auquel je pensais était : 47
+Vous étiez à 11 de la bonne réponse.
+----
+
+Le nombre à deviner (ici `47`) sera codé « *en dur* » dans une variable que vous définirez. En revanche, la *proposition du joueur sera saisie au clavier* lors de l'exécution (ici `36`). Cette proposition ainsi que l'écart avec la bonne réponse (ici `11`) seront les seules choses qui vont varier d'une exécution à une autre. Vous veillerez à faire en sorte que l'écart soit affiché sous la forme positive (ici, on affiche `11` et non `-11`, et cela doit être pareil si l'utilisateur rentre `58`).
+
+Dans le cas où le joueur devine le nombre, *la sortie sera différente* :
+
+[source,text]
+----
+Je pense à un nombre entre 1 et 100 inclus. Devinez lequel.
+Entrez un nombre : 47
+Vous avez proposé 47
+Vous avez gagné !
+----
+
+Vous devez veiller à prendre en compte correctement tous les cas de figure.
+
+Vous disposez de la documentation Java suivante :
+
+[source,java]
+----
+// Afficher « Bonjour » à l'écran puis passer à la ligne
+System.out.println("Bonjour");
+
+// Afficher « Bonjour » à l'écran sans passer à la ligne
+System.out.print("Bonjour");
+
+// Récupérer une entrée utilisateur (de type entier) au clavier dans la variable x
+Scanner sc = new Scanner(System.in);
+int x = sc.nextInt();
+----
+
+*Écrivez votre programme ci-dessous :*
