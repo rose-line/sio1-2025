@@ -8,85 +8,36 @@ Ce dépôt contiendra les ressources et les progressions associées aux cours de
 
 - [Progression du groupe B](progressionGrB.md)
 
-## Organisation des cours et modules
+## Les trois blocs de compétences du BTS SIO
+
+Le BTS est organisé en _blocs de compétences_ indépendants. Ainsi, chaque domaine d'activité défini dans le référentiel des activités professionnelles correspond à un bloc de compétences et à une épreuve.
+
+Le BTS SIO comporte trois blocs de compétences :
 
 - **Bloc 1 (B1) - Support et mise à disposition de services informatiques**
 
-  - semestre 1
-
-    - Introduction à la programmation
-    - Bases de la programmation (Java)
-    - Programmation événementielle et développement de client lourd (JavaFX)
-
-  - semestre 2 (non définitif)
-
-    - programmation client Web (JavaScript)
-    - introduction aux API REST (Node.js)
-    - containerisation (Docker)
-
-- **Bloc 2 (B2) - Spécialité SLAM**
-
-  - semestre 2 : introduction à la Programmation Orientée Objets (Java)
+- **Bloc 2 (B2) - Spécialité (SLAM ou SISR)**
 
 - **Bloc 3 (B3) - Cybersécurité**
 
-  - semestre 1
+## Les modules
 
-    - concepts généraux de cybersécurité
-    - attaques et défenses communes
-    - vulnérabilités, menaces et gestion de risques
-    - concepts de cryptographie
+À l'intérieur des trois blocs, les cours sont organisés en **modules**. Cela signifie notamment que l'on va travailler *exclusivement* sur un module pendant plusieurs heures ou plusieurs semaines d'affilée (en fonction de la « taille » du module). Ainsi, lorsque nous abordons par exemple un module de cybersécurité, nous savons que nous ne ferons ensemble *que ça* jusqu'à ce que le module soit terminé. Et ceci même si nous avons ensemble, dans la semaine, des cours avec des intitulés différents. Cela réduit les risques de « dispersion » : il est plus facile d'appréhender les notions dans leur contexte lorsque ce contexte ne change pas constamment.
 
-  - semestre 2
+### Modules associés au _B1 Support et mise à disposition de services informatiques_
 
-    - à définir en fonction de la progression exacte du semestre 1
+- [B1 semestre 1](bloc1/s1.md)
 
-Les cours sont organisés en **modules**. Cela signifie notamment que l'on va travailler *exclusivement* sur un module pendant plusieurs heures ou plusieurs semaines d'affilée (en fonction de la « taille » du module). Ainsi, lorsque nous abordons par exemple un module de cybersécurité, nous savons que nous ne ferons ensemble *que ça* jusqu'à ce que le module soit terminé. Cela réduit les risques de « dispersion » : il est plus facile d'appréhender les notions dans leur contexte lorsque ce contexte ne change pas constamment.
+- B1 semestre 2
 
-## Ressources B1 - Bases de la programmation
-
-Les modules de *B1 Bases de la programmation* débutent fin septembre.
-
-### B1 Module 1 : Introduction à la programmation
-
-- Liens vers les dépôts supports pour ce module :
-
-  - [Groupe A programme support de cours ](https://github.com/rose-line/sio2025-GA-intro-java)
-  - [Groupe A exercice « texte à trous » ](https://github.com/rose-line/sio2025-texte-a-trous)
-
-  - [Groupe B programme support de cours ](https://github.com/rose-line/sio2025-GB-intro-java)
-
-- Notions de base et terminologie sur la programmation
-
-- Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
-
-  - [Procédure d'installation à utiliser](bloc1/installation_ide.md)
-
-- Implémentation de programmes simples en Java
-
-- Notions de _variable typée_, d'_entrée_, de _sortie_
-
-- Types de données simples : entiers, flottants, booléens, chaînes de caractères
-
-- Introduction aux bonnes pratiques de programmation
-
-### B1 Module 2 : Bases de la programmation
-
-- [Module 1 Introduction à la programmation](bloc1/java_01_vars_sol.pdf)
-- [Module 2 Bases de la programmation](bloc1/jav_02_conditions_inc.pdf) (complété au fur et à mesure de l'avancement)
-
-## Ressources B2 - Spécialité SLAM
+### Modules associés au _B2 Spécialité SLAM_
 
 Les modules de *B2 Spécialité SLAM* débutent au semestre 2.
 
-## Ressources B3 - Cybersécurité
+### Modules associés au _B3 Cybersécurité_
 
 Le module 1 de *B3 Cybersécurité* débute à la rentrée.
 
-### B3 Module 1 : Attaques et vulnérabilités communes
+- [B3 semestre 1](bloc3/s1.md)
 
-- Partie 1 : [Ingénierie Sociale](bloc3/M1.1_ingenierie_sociale.pdf)
-
-- Partie 2 : [Malwares et autres schémas d'attaque (attaques sur l'hôte)](bloc3/M1.2_malwares_et_autres.pdf)
-
-- Partie 3 : [Attaques réseau](bloc3/M1.3_attaques_reseau.pdf)
+- B3 semestre 2
