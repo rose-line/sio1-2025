@@ -18,16 +18,38 @@
 
 #### JEU DE L'OIE
 
-Le but est de parcourir les 20 cases du jeu avec 5 lancers de dé. Un dé à 6 faces sera donc lancé 5 fois.
+Le but est de parcourir les 20 cases du jeu avec 5 lancers d'un dé. Un dé à 6 faces sera donc lancé 5 fois. *On fait toujours les 5 lancers*.
 
-  - Si, au bout de 5 lancers, on arrive exactement à 20, on gagne.
-  - Si on est au-dessus ou en-dessousde 20, on perd.
+  - Si on arrive exactement à 20, on gagne.
+  - Si on est au-dessus ou en-dessous de 20, on perd.
 
 La simulation va nécessiter de générer des entiers au hasard (lancers de dé). Vous utiliserez un objet `Random` pour générer des entiers entre 1 et 6. Voici un morceau de code qui vous permet de générer un entier entre 1 et 6 et de ranger le résultat dans une variable `lancer` :
 
 ```java
 Random generateur = new Random();
 int lancer = generateur.nextInt(6) + 1;
+```
+
+Voici un exemple de sortie :
+
+```
+Lancer 1 : vous avez fait 3. Vous êtes sur la case 3 (encore 17 cases)
+Lancer 2 : vous avez fait 3. Vous êtes sur la case 6 (encore 14 cases)
+Lancer 3 : vous avez fait 6. Vous êtes sur la case 12 (encore 8 cases)
+Lancer 4 : vous avez fait 5. Vous êtes sur la case 17 (encore 3 cases)
+Lancer 5 : vous avez fait 3. Vous êtes sur la case 20 (encore 0 cases)
+Vous avez gagné !
+```
+
+Voici un autre exemple dans lequel on perd. Notez que, bien que le joueur arrive à 20 après 4 lancers, le cinquième lancer le fait dépasser et il perd (on doit toujours faire les 5 lancers) :
+
+```
+Lancer 1 : vous avez fait 4. Vous êtes sur la case 4 (encore 16 cases)
+Lancer 2 : vous avez fait 5. Vous êtes sur la case 9 (encore 11 cases)
+Lancer 3 : vous avez fait 6. Vous êtes sur la case 15 (encore 5 cases)
+Lancer 4 : vous avez fait 5. Vous êtes sur la case 20 (encore 0 cases)
+Lancer 5 : vous avez fait 3. Vous êtes sur la case 23 (encore -3 cases)
+Vous avez perdu !
 ```
 
 ### Séance 13 - Jeudi 19/10
