@@ -30,7 +30,7 @@ Random generateur = new Random();
 int lancer = generateur.nextInt(6) + 1;
 ```
 
-Voici un exemple de sortie :
+Voici un exemple de sortie du programme (ici, le joueur gagne) :
 
 ```
 Lancer 1 : vous avez fait 3. Vous êtes sur la case 3 (encore 17 cases)
@@ -41,7 +41,7 @@ Lancer 5 : vous avez fait 3. Vous êtes sur la case 20 (encore 0 cases)
 Vous avez gagné !
 ```
 
-Voici un autre exemple dans lequel on perd. Notez que, bien que le joueur arrive à 20 après 4 lancers, le cinquième lancer le fait dépasser et il perd (on doit toujours faire les 5 lancers) :
+Voici un autre exemple dans lequel le joueur perd. Notez que, bien que le joueur arrive à 20 après 4 lancers, le cinquième lancer le fait dépasser et il perd (on doit toujours faire les 5 lancers) :
 
 ```
 Lancer 1 : vous avez fait 4. Vous êtes sur la case 4 (encore 16 cases)
@@ -51,6 +51,8 @@ Lancer 4 : vous avez fait 5. Vous êtes sur la case 20 (encore 0 cases)
 Lancer 5 : vous avez fait 3. Vous êtes sur la case 23 (encore -3 cases)
 Vous avez perdu !
 ```
+
+On souhaite que le programme fasse une pause après chaque lancer (chaque ligne). Il faudra appuyer sur la touche `Entrée` pour faire le lancer suivant. Pour cela, en Java, on utilisera la ligne suivante (en admettant qu'on a une variable `clavier` de type `Scanner`) : `clavier.nextLine();`. Cette simple ligne attend juste un appui sur `Entrée` avant de poursuivre le programme.
 
 ### Séance 13 - Jeudi 19/10
 
