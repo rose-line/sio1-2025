@@ -1,8 +1,38 @@
 ## Progression du groupe B
 
+### Séance 14 - Mardi 07/11
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Structures répétitives
+
+    - Instruction FAIRE TANT QUE (_do while_)
+
+    - Étude du problème précédent (« validation du nombre d'heures travaillées ») avec une boucle _do while_
+
+    - Instruction POUR (_for_)
+
+    - Étude et implémentation du problème « Calcul du total d'un panier d'articles »
+
+    - *Pour la prochaine fois : implémenter le problème « Jeu de l'Oie »* (nouveau projet à mettre sur GitHub) dont voici les spécifications :
+
+#### JEU DE L'OIE
+
+Le but est de parcourir les 20 cases du jeu avec 5 lancers de dé. Un dé à 6 faces sera donc lancé 5 fois.
+
+  - Si, au bout de 5 lancers, on arrive exactement à 20, on gagne.
+  - Si on est au-dessus ou en-dessousde 20, on perd.
+
+La simulation va nécessiter de générer des entiers au hasard (lancers de dé). Vous utiliserez un objet `Random` pour générer des entiers entre 1 et 6. Voici un morceau de code qui vous permet de générer un entier entre 1 et 6 et de ranger le résultat dans une variable `lancer` :
+
+```java
+Random generateur = new Random();
+int lancer = generateur.nextInt(6) + 1;
+```
+
 ### Séance 13 - Jeudi 19/10
 
-- [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro B1_BDP_M1_GB_20231012 Introduction à la programmation
+- [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro [B1_BDP_M1_GB_20231012](bloc1/B1_BDP_M1_GB_20231012_sujet.adoc) Introduction à la programmation
 
 - ***B1 Module 2 - Bases de la programmation***
 
