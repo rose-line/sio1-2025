@@ -1,8 +1,29 @@
 ## Progression groupe A
 
-- Les cours de premier semestre du vendredi n'ont plus lieu à partir de la rentrée de novembre
+- Les cours de *premier semestre* du vendredi n'ont plus lieu à partir de la rentrée de novembre
 
-- Il reste 7 séances le jeudi : 4 CS, 3 BDP
+- Il reste 6 séances le jeudi : 3 CS, 3 BDP
+
+### Séance 20 - Jeudi 09/11 (CS 10/13)
+
+- ***B3 Module 4 - Distinguer acteurs, vecteurs et ressources***
+
+  - Acteurs
+    - « *Script Kiddies* »
+    - *Hacktivistes*
+    - Crime organisé
+    - Menaces avancées persistantes
+    - Attaques internes
+    - Concurrence
+
+  - Vecteurs d'attaque
+    - Accès direct
+    - Sans-fil
+    - Email
+    - *Supply chain*
+    - Réseaux sociaux
+    - Périphériques externes
+    - Cloud
 
 ### Séances 18-19 - Vendredi 20/10 (CS 8-9/13)
 
