@@ -2,9 +2,9 @@
 
 - Les cours de *premier semestre* du vendredi n'ont plus lieu à partir de la rentrée de novembre
 
-- Il reste 6 séances le jeudi : 3 CS, 3 BDP
+- Il reste 5 séances le jeudi : 2 CS, 3 BDP
 
-### Séance 20 - Jeudi 09/11 (CS 10/13)
+### Séance 20 - Jeudi 09/11 (CS 10)
 
 - ***B3 Module 4 - Distinguer acteurs, vecteurs et ressources***
 
@@ -25,7 +25,7 @@
     - Périphériques externes
     - Cloud
 
-### Séances 18-19 - Vendredi 20/10 (CS 8-9/13)
+### Séances 18-19 - Vendredi 20/10 (CS 8-9)
 
 - ***B3 Module 3 - Stratégies de défense***
 
@@ -55,7 +55,7 @@
 
   - Gestion de configuration
 
-### Séance 17 - Jeudi 19/10 (BDP 10/13)
+### Séance 17 - Jeudi 19/10 (BDP 10)
 
 - [Correction](bloc1/B1_BDP_M1_M2_GA_20231012_correction.java) de l'interro [B1_BDP_M1_M2_GA_20231012](bloc1/B1_BDP_M1_M2_GA_20231012_sujet.adoc) Introduction à la programmation et instructions conditionnelles
 
@@ -65,7 +65,7 @@
 
     - Étude et implémentation en autonomie du problème « Jeu de l'Oie »  : V1 et V2
 
-### Séances 15 et 16 - Vendredi 13/10 (BDP 8-9/13)
+### Séances 15 et 16 - Vendredi 13/10 (BDP 8-9)
 
 - ***B1 Module 2 - Bases de la programmation***
 
@@ -81,7 +81,7 @@
 
     - Étude et implémentation du problème « Jeu de l'Oie » : **à terminer pour la prochaine séance**
 
-### Séance 14 - Jeudi 12/10 (BDP 7/13)
+### Séance 14 - Jeudi 12/10 (BDP 7)
 
 - ***B1 Module 2 - Bases de la programmation***
 
@@ -99,7 +99,7 @@
 
     - Étude et implémentation du problème « Validation du nombre d'heures travaillées »
 
-### Séances 12 et 13 - Vendredi 06/10 (BDP 5-6/13)
+### Séances 12 et 13 - Vendredi 06/10 (BDP 5-6)
 
 - ***B1 Module 2 - Bases de la programmation***
 
@@ -139,7 +139,7 @@
 
     - Étude et implémentation en autonomie du problème « d'obtention conditionnée d'un prêt bancaire » : **à terminer pour la prochaine séance**
 
-### Séance 11 - Jeudi 05/10 (BDP 4/13)
+### Séance 11 - Jeudi 05/10 (BDP 4)
 
 - ***B1 Module 1 - Introduction à la programmation***
 
@@ -155,7 +155,7 @@
 
     - Étude et implémentation en autonomie du programme de calcul de salaire avec prime conditionnée : **à terminer pour la prochaine séance**
 
-### Séances 9 et 10 - Vendredi 29/09 (BDP 2-3/13)
+### Séances 9 et 10 - Vendredi 29/09 (BDP 2-3)
 
 - ***B1 Module 1 - Introduction à la programmation***
 
@@ -175,7 +175,7 @@
 
   - Exercice à terminer pour la prochaine séance : « texte à trous »
 
-### Séance 8 - Jeudi 28/09 (BDP 1/13)
+### Séance 8 - Jeudi 28/09 (BDP 1)
 
 - Interro B3_S1_INT01_20230928 : B3 Module 1 - Partie 1 et 2
 
@@ -185,7 +185,7 @@
 
   - Configuration d'un premier projet
 
-### Séances 6 et 7 - Vendredi 22/09 (CS 6-7/13)
+### Séances 6 et 7 - Vendredi 22/09 (CS 6-7)
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
@@ -233,7 +233,7 @@
 
 ### Jeudi 21/09 : journée d'intégration
 
-### Séances 4 et 5 - Vendredi 15/09 (CS 4-5/13)
+### Séances 4 et 5 - Vendredi 15/09 (CS 4-5)
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
@@ -269,7 +269,7 @@
 
   - Attaques par périphérique externe
 
-### Séance 3 - Jeudi 14/09 (CS 3/13)
+### Séance 3 - Jeudi 14/09 (CS 3)
 
 - ***B3 Module 1 Partie 1 - Ingénierie Sociale***
 
@@ -281,7 +281,7 @@
 
   - Indicateurs de compromission : définition et exemples
 
-### Séance 2 - Vendredi 08/09 (CS 2/13)
+### Séance 2 - Vendredi 08/09 (CS 2)
 
 - ***B3 Module 1 Partie 1 - Ingénierie Sociale***
 
@@ -297,7 +297,7 @@
 
   - Sécurité physique : conséquences et bonnes pratiques
 
-### Séance 1 - Jeudi 07/09 (CS 1/13)
+### Séance 1 - Jeudi 07/09 (CS 1)
 
 - Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
 

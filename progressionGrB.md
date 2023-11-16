@@ -1,12 +1,12 @@
 ## Progression du groupe B
 
-### Séance 15 - Jeudi 09/11 (BDP 07/13)
+### Séance 15 - Jeudi 09/11 (BDP 07)
 
 - ***B1 Module 2 - Bases de la programmation***
 
-  - Implémentation en autonomie du problème « Jeu de l'Oie » et de son évolution :
+  - Implémentation en autonomie du problème « Jeu de l'Oie » et de ses évolutions :
 
-#### JEU DE L'OIE - ÉVOLUTION 1
+#### JEU DE L'OIE - VERSION 2
 
 Le jeu doit maintenant recommencer automatiquement autant de fois que nécessaire jusqu’à ce qu’on ait une simulation gagnante. C'est la même séquence de 5 coups de dés qui se répète jusqu'à ce qu'on gagne :
 
@@ -16,7 +16,7 @@ Le jeu doit maintenant recommencer automatiquement autant de fois que nécessair
 
 Le programme doit également afficher à la fin le nombre total de simulations qu’il a fallu pour gagner.
 
-#### JEU DE L'OIE - ÉVOLUTION 2
+#### JEU DE L'OIE - VERSION 3
 
 De nouveau, on ne va jouer qu'une seule partie. Mais cette fois, on lance le dé jusqu'à ce qu'on arrive pile à 20. Quand on dépasse 20, on « rebondit » en repartant en arrière, comme dans le vrai jeu. Par exemple :
 
@@ -26,7 +26,7 @@ De nouveau, on ne va jouer qu'une seule partie. Mais cette fois, on lance le dé
 
 En fin de partie, le programme doit afficher le nombre de lancers de dé qu'il a fallu pour gagner.
 
-### Séance 14 - Mardi 07/11 (BDP 06/13)
+### Séance 14 - Mardi 07/11 (BDP 06)
 
 - ***B1 Module 2 - Bases de la programmation***
 
@@ -80,7 +80,7 @@ Vous avez perdu !
 
 On souhaite que le programme fasse une pause après chaque lancer (chaque ligne). Il faudra appuyer sur la touche `Entrée` pour faire le lancer suivant. Pour cela, en Java, on utilisera la ligne suivante (en admettant qu'on a une variable `clavier` de type `Scanner`) : `clavier.nextLine();`. Cette simple ligne attend juste un appui sur `Entrée` avant de poursuivre le programme.
 
-### Séance 13 - Jeudi 19/10 (BDP 05/13)
+### Séance 13 - Jeudi 19/10 (BDP 05)
 
 - [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro [B1_BDP_M1_GB_20231012](bloc1/B1_BDP_M1_GB_20231012_sujet.adoc) Introduction à la programmation
 
@@ -100,7 +100,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
     - Étude et implémentation du problème « Café-crème » **à faire pour la rentrée (mettre sur GitHub)**
 
-### Séance 12 - Mardi 17/10 (BDP 04/13)
+### Séance 12 - Mardi 17/10 (BDP 04)
 
 - ***B1 Module 2 - Bases de la programmation***
 
@@ -132,7 +132,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Étude et implémentation du problème « d'obtention conditionnée d'un prêt bancaire » : **à terminer pour la prochaine séance**
 
-### Séance 11 - Jeudi 12/10 (BDP 03/13)
+### Séance 11 - Jeudi 12/10 (BDP 03)
 
 - **Interro B1_BDP_M1_GB_20231012 : Introduction à la programmation**
 
@@ -152,7 +152,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
     - Implémentation en autonomie du problème de messages conditionnés pour les commerciaux : versions sans calcul de salaire brut et avec calcul de salaire brut - **à terminer pour la prochaine séance**
 
-### Séances 10 - Mardi 10/10 (BDP 02/13)
+### Séances 10 - Mardi 10/10 (BDP 02)
 
 - ***B1 Module 1 - Introduction à la programmation***
 
@@ -164,7 +164,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 - **Interro prévue jeudi 12/10** : B1 Module 1 - Introduction à la programmation
 
-### Séance 9 - Jeudi 05/10 (BDP 01/13)
+### Séance 9 - Jeudi 05/10 (BDP 01)
 
 - ***B1 Module 1 - Introduction à la programmation***
 
@@ -180,7 +180,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
     - première implémentation en Java
 
-### Séance 8 - Mardi 03/10 (CS 08/13)
+### Séance 8 - Mardi 03/10 (CS 08)
 
 - ***B3 Module 1 Partie 3 - Attaques réseau***
 
@@ -198,7 +198,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Configuration d'un premier projet
 
-### Séance 7 - Jeudi 28/09 (CS 07/13)
+### Séance 7 - Jeudi 28/09 (CS 07)
 
 - **Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2**
 
@@ -208,7 +208,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Attaque de vecteur d'initialisation
 
-### Séance 6 - Mardi 26/09  (CS 06/13)
+### Séance 6 - Mardi 26/09  (CS 06)
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
@@ -242,7 +242,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Jeudi 21/09 : journée d'intégration
 
-### Séance 5 - Mardi 19/09 (CS 05/13)
+### Séance 5 - Mardi 19/09 (CS 05)
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
@@ -266,7 +266,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Attaques par périphérique externe
 
-### Séance 4 - Jeudi 14/09 (CS 04/13)
+### Séance 4 - Jeudi 14/09 (CS 04)
 
 - ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
 
@@ -286,7 +286,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
     - Malware « zombie » et botnets
 
-### Séance 3 - Mardi 12/09 (CS 03/13)
+### Séance 3 - Mardi 12/09 (CS 03)
 
 - ***B3 Module 1 Partie 1 - Ingénierie Sociale***
 
@@ -304,7 +304,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Indicateurs de compromission : définition et exemples
 
-### Séance 2 -  Jeudi 07/09 (CS 02/13)
+### Séance 2 -  Jeudi 07/09 (CS 02)
 
 - ***B3 Module 1 Partie 1 - Ingénierie Sociale***
 
@@ -316,7 +316,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Usurpation d'identité
 
-### Séance 1 - Mardi 05/09 (CS 01/13)
+### Séance 1 - Mardi 05/09 (CS 01)
 
 - Introduction générale au fonctionnement par modules et à l'apprentissage de la cybersécurité
 
