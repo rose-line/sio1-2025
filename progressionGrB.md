@@ -1,5 +1,11 @@
 ## Progression du groupe B
 
+### Séance 16 - Mardi 14/11 (BDP 08)
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Continuation de la séance précédente ; _commit_ et _push_ sur GitHub pour chaque version terminée.
+
 ### Séance 15 - Jeudi 09/11 (BDP 07)
 
 - ***B1 Module 2 - Bases de la programmation***
