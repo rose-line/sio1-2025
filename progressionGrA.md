@@ -1,9 +1,5 @@
 ## Progression groupe A
 
-- Les cours de *premier semestre* du vendredi n'ont plus lieu à partir de la rentrée de novembre
-
-- Il reste 5 séances le jeudi : 2 CS, 3 BDP
-
 ### Séance 20 - Jeudi 09/11 (CS 10)
 
 - ***B3 Module 4 - Distinguer acteurs, vecteurs et ressources***
