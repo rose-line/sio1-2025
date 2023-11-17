@@ -1,5 +1,13 @@
 ## Progression du groupe B
 
+### Séance 17 - Jeudi 16/11 (BDP 09)
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Correction des problèmes « Jeu de l'Oie » (V1, V2 et V3)
+
+- **Interro prévue jeudi 23/11** : B1 Module 2 - Instructions conditionnelles et répétitives
+
 ### Séance 16 - Mardi 14/11 (BDP 08)
 
 - ***B1 Module 2 - Bases de la programmation***
