@@ -1,5 +1,23 @@
 ## Progression groupe A
 
+### Séance 21 - Jeudi 16/11 (BDP 11)
+
+- ***B1 Module 2 - Bases de la programmation***
+
+  - Correction des problèmes « Jeu de l'Oie » (V1, V2 et V3)
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Stucturation d'un algorithme :
+
+    - Identifier les sous-problèmes
+    - Nommer les sous-problèmes
+    - Extraire les sous-problèmes
+
+  - Notion de _décomposition procédurale_
+
+- **Interro prévue jeudi 23/11** : B1 Module 2 - Instructions conditionnelles et répétitives
+
 ### Séance 20 - Jeudi 09/11 (CS 10)
 
 - ***B3 Module 4 - Distinguer acteurs, vecteurs et ressources***
