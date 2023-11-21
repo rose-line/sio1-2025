@@ -1,5 +1,23 @@
 ## Progression du groupe B
 
+### Séance 18 - Mardi 21/11 (CS 09)
+
+- ***B3 Module 3 - Stratégies de défense***
+
+  - Mentalité du défenseur et stratégie de défense
+
+  - Prévention vs. détection
+
+  - Flux entrants vs flux sortants
+
+  - Notion de risque : R = M x V
+
+  - DICP : **non vu** (cf cours M. Harbonnier)
+
+  - Contrôle des accès : terminologie
+
+- **Interro prévue jeudi 23/11** : B1 Module 2 - Instructions conditionnelles et répétitives
+
 ### Séance 17 - Jeudi 16/11 (BDP 09)
 
 - ***B1 Module 2 - Bases de la programmation***
@@ -25,7 +43,7 @@
 Le jeu doit maintenant recommencer automatiquement autant de fois que nécessaire jusqu’à ce qu’on ait une simulation gagnante. C'est la même séquence de 5 coups de dés qui se répète jusqu'à ce qu'on gagne :
 
   - on doit voir toutes les parties se dérouler ;
-  - cette fois on ne va pas faire de pause à chaque coup de dé (trop long : on ne sait pas combien de parties seront nécessaires pour gagner, et ce sera potentiellement long)
+  - cette fois on ne va pas faire de pause à chaque coup de dé (trop long : on ne sait pas combien de parties seront nécessaires pour gagner, et ce sera potentiellement long) ;
   - la dernière partie visible sera donc la seule gagnante.
 
 Le programme doit également afficher à la fin le nombre total de simulations qu’il a fallu pour gagner.
@@ -202,7 +220,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Empoisonnement ARP
 
-  - Usurpation d'adrsse IP
+  - Usurpation d'adresse IP
 
   - Attaque en déni de service distribuée (_DDoS_)
 
