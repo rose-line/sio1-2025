@@ -1,5 +1,17 @@
 ## Progression du groupe B
 
+### Séance 19 - Jeudi 23/11 (CS 10)
+
+- Interro B1 Module 2 - Instructions conditionnelles et répétitives
+
+- ***B3 Module 3 - Stratégies de défense***
+
+  - Les grandes approches défensives
+
+    - Protection uniforme
+
+    - Protection par zones
+
 ### Séance 18 - Mardi 21/11 (CS 09)
 
 - ***B3 Module 3 - Stratégies de défense***
