@@ -1,5 +1,21 @@
 ## Progression groupe A
 
+### Séance 22 - Jeudi 23/11 (BDP 12)
+
+- Interro B1 Module 2 - Instructions conditionnelles et répétitives
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Méthodes :
+
+    - Processus de décomposition avec des méthodes
+
+    - Définition d'une méthode : syntaxe et exemples
+
+    - Invocation d'une méthode : syntaxe et exemples
+
+    - Synthèse
+
 ### Séance 21 - Jeudi 16/11 (BDP 11)
 
 - ***B1 Module 2 - Bases de la programmation***
@@ -59,7 +75,7 @@
 
     - Protection uniforme
 
-    - protection par zones
+    - Protection par zones
 
     - Protection centrée sur l'information
 
