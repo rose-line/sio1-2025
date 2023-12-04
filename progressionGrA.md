@@ -1,5 +1,37 @@
 ## Progression groupe A
 
+### Séance 23 - Jeudi 30/11 (BDP 13)
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Méthodes :
+
+    - Flux d'exécution : notions d'*appelant* et de *pile d'appels* et de *retour*
+
+    - Exercice « Quelle est la sortie ? » avec des méthodes
+
+  - Méthodes paramétrées
+
+    - Notion et fonctionnement des paramètres
+
+    - Déclaration et appel de méthodes paramétrées
+
+    - Mécanique du passage de paramètres
+
+    - Erreurs communes dans l'utilisation des paramètres
+
+   - Paramètres multiples
+
+  - Méthodes avec valeur de retour
+
+    - Renvoyer un résultat d'une méthode : principe
+
+    - Type de retour et instruction `return`
+
+    - Exercice « Somme des entiers jusque... »
+
+  - Synthèse : exercice « Jeu de l'oie V1 » avec méthodes **à terminer pour la prochaine séance**
+
 ### Séance 22 - Jeudi 23/11 (BDP 12)
 
 - Interro B1 Module 2 - Instructions conditionnelles et répétitives
