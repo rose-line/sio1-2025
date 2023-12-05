@@ -1,5 +1,63 @@
 ## Progression du groupe B
 
+### Séance 22 - Mardi 05/12 (BDP 10)
+
+- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
+
+  - Vecteurs d'attaque
+
+    - Périphériques externes
+
+    - Cloud
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Stucturation d'un algorithme :
+
+    - Identifier les sous-problèmes
+
+    - Nommer les sous-problèmes
+
+    - Extraire les sous-problèmes
+
+  - Notion de _décomposition procédurale_
+
+  - Méthodes :
+
+    - Processus de décomposition avec des méthodes
+
+    - Définition d'une méthode : syntaxe et exemples
+
+    - Invocation d'une méthode : syntaxe et exemples
+
+    - Synthèse
+
+    - Flux d'exécution : notions d'*appelant* et de *pile d'appels* et de *retour*
+
+    - Exercice « Quelle est la sortie ? » avec des méthodes
+
+  - Méthodes paramétrées
+
+    - Notion et fonctionnement des paramètres
+
+    - Déclaration et appel de méthodes paramétrées
+
+    - Mécanique du passage de paramètres
+
+    - Erreurs communes dans l'utilisation des paramètres
+
+    - Paramètres multiples
+
+  - Exercice à terminer pour jeudi : « Jeu de l'oie V1 » avec méthodes
+
+    - Identifier les sous-problèmes
+
+    - Nommer les sous-problèmes
+
+    - Extraire les sous-problèmes sous forme de définition de méthodes
+
+    - Appeler les méthodes aux endroits appropriés dans le programme principal (méthode `main`)
+
 ### Séance 21 - Jeudi 30/11 (CS 12)
 
 - ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
