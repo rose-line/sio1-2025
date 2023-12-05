@@ -1,5 +1,21 @@
 ## Progression du groupe B
 
+### Séance 20 - Mardi 28/11 (CS 11)
+
+- ***B3 Module 3 - Stratégies de défense***
+
+  - Les grandes approches défensives
+
+    - Protection centrée sur l'information
+
+    - Protection orientée vecteurs d'attaque
+
+  - Réparation après incident
+
+  - Gestion de configuration
+
+  - Retour sur critères DICP
+
 ### Séance 19 - Jeudi 23/11 (CS 10)
 
 - Interro B1 Module 2 - Instructions conditionnelles et répétitives
