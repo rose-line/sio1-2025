@@ -1,5 +1,24 @@
 ## Progression du groupe B
 
+### Séance 21 - Jeudi 30/11 (CS 12)
+
+- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
+
+  - Acteurs
+    - « *Script Kiddies* »
+    - *Hacktivistes*
+    - Crime organisé
+    - Menaces avancées persistantes
+    - Attaques internes
+    - Concurrence
+
+  - Vecteurs d'attaque
+    - Accès direct
+    - Sans-fil
+    - Email
+    - *Supply chain*
+    - Réseaux sociaux
+
 ### Séance 20 - Mardi 28/11 (CS 11)
 
 - ***B3 Module 3 - Stratégies de défense***
