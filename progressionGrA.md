@@ -1,5 +1,13 @@
 ## Progression groupe A
 
+### Séance 24 - Jeudi 07/12 (BDP 14)
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - [Correction de l'exercice](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes) « Jeu de l'oie V1 » avec méthodes
+
+  - Analyse et implémentation de « Jeu de l'oie V2 » avec méthodes ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v2-avec-methodes))
+
 ### Séance 23 - Jeudi 30/11 (BDP 13)
 
 - ***B1 Module 3 - Modularisation d'un programme***
@@ -59,7 +67,9 @@
   - Stucturation d'un algorithme :
 
     - Identifier les sous-problèmes
+
     - Nommer les sous-problèmes
+
     - Extraire les sous-problèmes
 
   - Notion de _décomposition procédurale_
@@ -68,23 +78,36 @@
 
 ### Séance 20 - Jeudi 09/11 (CS 10)
 
-- ***B3 Module 4 - Distinguer acteurs, vecteurs et ressources***
+- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
 
   - Acteurs
+
     - « *Script Kiddies* »
+
     - *Hacktivistes*
+
     - Crime organisé
+
     - Menaces avancées persistantes
+
     - Attaques internes
+
     - Concurrence
 
   - Vecteurs d'attaque
+
     - Accès direct
+
     - Sans-fil
+
     - Email
+
     - *Supply chain*
+
     - Réseaux sociaux
+
     - Périphériques externes
+
     - Cloud
 
 ### Séances 18-19 - Vendredi 20/10 (CS 8-9)
