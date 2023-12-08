@@ -1,5 +1,13 @@
 ## Progression du groupe B
 
+### Séance 23 - Jeudi 07/12 (BDP 11)
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Analyse et implémentation de « Jeu de l'oie V1 avec méthodes » ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes))
+
+  - Exercice : « Jeu de l'oie V2 avec méthodes » **à terminer pour la prochaine séance**
+
 ### Séance 22 - Mardi 05/12 (BDP 10)
 
 - ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***

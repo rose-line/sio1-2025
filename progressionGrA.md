@@ -4,9 +4,9 @@
 
 - ***B1 Module 3 - Modularisation d'un programme***
 
-  - [Correction de l'exercice](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes) « Jeu de l'oie V1 » avec méthodes
+  - [Correction de l'exercice](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes) « Jeu de l'oie V1 avec méthodes »
 
-  - Analyse et implémentation de « Jeu de l'oie V2 » avec méthodes ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v2-avec-methodes))
+  - Analyse et implémentation de « Jeu de l'oie V2 avec méthodes » ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v2-avec-methodes))
 
 ### Séance 23 - Jeudi 30/11 (BDP 13)
 
