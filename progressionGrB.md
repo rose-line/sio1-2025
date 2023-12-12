@@ -1,5 +1,11 @@
 ## Progression du groupe B
 
+### Séance 24 - Mardi 12/12 (BDP 12)
+
+- ***B1 Module 3 - Modularisation d'un programme***
+
+  - Implémentation en autonomie du problème « Jeu de l'oie V2 avec méthodes » ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v2-avec-methodes))
+
 ### Séance 23 - Jeudi 07/12 (BDP 11)
 
 - ***B1 Module 3 - Modularisation d'un programme***
