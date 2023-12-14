@@ -27,7 +27,7 @@ Un client de KLIENTE souhaite recueillir des données sur les attentes du march�
 
 ### Document 4 - KLIENTE, un centre d'appel multicanal
 
-L'appreillage des clients et la facilité d'accès à certaines informations via Internet oblige KLIENTE à une transformation digitale. Le client peut établir le contact par courriel, puis par un appel téléphonique pour enfin suivre l'évolution de sa demande sur une app mobile. KLIENTE doit accompagner ce changement en adoptant le multicanal : les plateformes des centres d'appels sont désormais capables de gérer les demandes en provenance de plusieurs canaux (site internet, courriel, SMS, appel vidéo, etc.).
+L'appareillage des clients et la facilité d'accès à certaines informations via Internet oblige KLIENTE à une transformation digitale. Le client peut établir le contact par courriel, puis par un appel téléphonique pour enfin suivre l'évolution de sa demande sur une app mobile. KLIENTE doit accompagner ce changement en adoptant le multicanal : les plateformes des centres d'appels sont désormais capables de gérer les demandes en provenance de plusieurs canaux (site internet, courriel, SMS, appel vidéo, etc.).
 
 ---
 
