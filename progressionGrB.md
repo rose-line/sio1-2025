@@ -4,7 +4,7 @@
 
 - **B3 Module 4 - Risques**
 
-  - TP « Protection des données à caractère personnel »
+  - TP « *Protection des données à caractère personnel* » (TP et correction disponibles dans les ressources B3)
 
 ### Séance 24 - Mardi 12/12 (BDP 12)
 
