@@ -1,8 +1,14 @@
 ## Progression groupe A
 
+### Séance 25 - Jeudi 14/12 (CS 11)
+
+- **B3 Module 4 - Risques**
+
+  - TP « *Protection des données à caractère personnel* » (TP et correction disponibles dans les ressources B3)
+
 ### Séance 24 - Jeudi 07/12 (BDP 14)
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - [Correction de l'exercice](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes) « Jeu de l'oie V1 avec méthodes »
 
@@ -10,11 +16,11 @@
 
 ### Séance 23 - Jeudi 30/11 (BDP 13)
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - Méthodes :
 
-    - Flux d'exécution : notions d'*appelant* et de *pile d'appels* et de *retour*
+    - Flux d'exécution : notions d'_appelant_ et de _pile d'appels_ et de _retour_
 
     - Exercice « Quelle est la sortie ? » avec des méthodes
 
@@ -28,7 +34,7 @@
 
     - Erreurs communes dans l'utilisation des paramètres
 
-   - Paramètres multiples
+  - Paramètres multiples
 
   - Méthodes avec valeur de retour
 
@@ -42,9 +48,9 @@
 
 ### Séance 22 - Jeudi 23/11 (BDP 12)
 
-- Interro B1 Module 2 - Instructions conditionnelles et répétitives
+- Interro B1 Module 2 - Structures de contrôle
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - Méthodes :
 
@@ -58,11 +64,11 @@
 
 ### Séance 21 - Jeudi 16/11 (BDP 11)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structures répétitives**
 
   - Correction des problèmes « Jeu de l'Oie » (V1, V2 et V3)
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - Stucturation d'un algorithme :
 
@@ -74,17 +80,17 @@
 
   - Notion de _décomposition procédurale_
 
-- **Interro prévue jeudi 23/11** : B1 Module 2 - Instructions conditionnelles et répétitives
+- **Interro prévue jeudi 23/11** : B1 Module 2 - Structures de contrôle
 
 ### Séance 20 - Jeudi 09/11 (CS 10)
 
-- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
+- **B3 Module 2.3 - Acteurs, vecteurs et ressources OSINT**
 
   - Acteurs
 
     - « *Script Kiddies* »
 
-    - *Hacktivistes*
+    - _Hacktivistes_
 
     - Crime organisé
 
@@ -102,7 +108,7 @@
 
     - Email
 
-    - *Supply chain*
+    - _Supply chain_
 
     - Réseaux sociaux
 
@@ -112,7 +118,7 @@
 
 ### Séances 18-19 - Vendredi 20/10 (CS 8-9)
 
-- ***B3 Module 3 - Stratégies de défense***
+- **B3 Module 3 - Stratégies de défense**
 
   - Mentalité du défenseur et stratégie de défense
 
@@ -142,51 +148,45 @@
 
 ### Séance 17 - Jeudi 19/10 (BDP 10)
 
-- [Correction](bloc1/B1_BDP_M1_M2_GA_20231012_correction.java) de l'interro [B1_BDP_M1_M2_GA_20231012](bloc1/B1_BDP_M1_M2_GA_20231012_sujet.adoc) Introduction à la programmation et instructions conditionnelles
+- [Correction](bloc1/B1_BDP_M1_M2_GA_20231012_correction.java) de l'interro [B1_BDP_M1_M2_GA_20231012](bloc1/B1_BDP_M1_M2_GA_20231012_sujet.adoc) Introduction à la programmation et structures conditionnelles
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structures répétitives**
 
-  - Structures répétitives
-
-    - Étude et implémentation en autonomie du problème « Jeu de l'Oie »  : V1 et V2
+  - Étude et implémentation en autonomie du problème « Jeu de l'Oie »  : V1 et V2
 
 ### Séances 15 et 16 - Vendredi 13/10 (BDP 8-9)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structures répétitives**
 
-  - Structures répétitives
+  - Instruction FAIRE TANT QUE (_do while_)
 
-    - Instruction FAIRE TANT QUE (_do while_)
+  - Reprise du problème précédent avec une boucle _do while_
 
-    - Reprise du problème précédent avec une boucle _do while_
+  - Instruction POUR (_for_)
 
-    - Instruction POUR (_for_)
+  - Étude et implémentation du problème « Calcul du total d'un panier d'articles »
 
-    - Étude et implémentation du problème « Calcul du total d'un panier d'articles »
-
-    - Étude et implémentation du problème « Jeu de l'Oie » : **à terminer pour la prochaine séance**
+  - Étude et implémentation du problème « Jeu de l'Oie » : **à terminer pour la prochaine séance**
 
 ### Séance 14 - Jeudi 12/10 (BDP 7)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structures conditionnelles**
 
-  - Structures conditionnelles
+  - Correction du problème « Obtention conditionnée d'un prêt bancaire »
 
-    - Correction du problème « Obtention conditionnée d'un prêt bancaire » 
+  - Étude du problème « Café-crème » : structure IF / ELSE IF / ELSE
 
-    - Étude du problème « Café-crème » : structure IF / ELSE IF / ELSE
+- **B1 Module 2.2 - Structures de contrôle - Structures répétitives**
 
-  - Structures répétitives
+  - Principe de la « boucle »
 
-    - Principe de la « boucle »
+  - Instruction TANT QUE (_while_)
 
-    - Instruction TANT QUE (_while_)
-
-    - Étude et implémentation du problème « Validation du nombre d'heures travaillées »
+  - Étude et implémentation du problème « Validation du nombre d'heures travaillées »
 
 ### Séances 12 et 13 - Vendredi 06/10 (BDP 5-6)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structures conditionnelles**
 
   - Gestion de versions avec Git
 
@@ -226,11 +226,11 @@
 
 ### Séance 11 - Jeudi 05/10 (BDP 4)
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Correction de l'exercice « texte à trous »
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structures conditionnelles**
 
   - Structures conditionnelles
 
@@ -242,7 +242,7 @@
 
 ### Séances 9 et 10 - Vendredi 29/09 (BDP 2-3)
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Notions d'_ordinateur_, de _programme_, de _langage de programmation_, de _code source_
 
@@ -262,9 +262,9 @@
 
 ### Séance 8 - Jeudi 28/09 (BDP 1)
 
-- Interro B3_S1_INT01_20230928 : B3 Module 1 - Partie 1 et 2
+- Interro B3_S1_INT01_20230928 : B3 Module 1 - Ingénierie sociale et Module 2.1 - Malwares et autres schémas d'attaque
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
 
@@ -272,7 +272,7 @@
 
 ### Séances 6 et 7 - Vendredi 22/09 (CS 6-7)
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Attaque de la chaîne logistisque (_supply chain_)
 
@@ -280,7 +280,7 @@
 
   - Rançongiciel (_ransomware_)
 
-- ***B3 Module 1 Partie 3 - Attaques réseau***
+- **B3 Module 2.2 - Attaques réseaux**
 
   - Attaque de l'homme du milieu (_MitM_)
 
@@ -314,13 +314,13 @@
 
   - Attaque en déni de service distribuée (_DDoS_)
 
-- **Interro prévue jeudi 28/09** : B3 Module 1 - Partie 1 et 2
+- **Interro prévue jeudi 28/09** : B3 Module 1 - Ingénierie sociale et Module 2.1 - Malwares et autres schémas d'attaque
 
 ### Jeudi 21/09 : journée d'intégration
 
 ### Séances 4 et 5 - Vendredi 15/09 (CS 4-5)
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Malwares : généralités
 
@@ -356,19 +356,19 @@
 
 ### Séance 3 - Jeudi 14/09 (CS 3)
 
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie Sociale**
 
   - Sécurité des laptops
 
   - Efficacité de l'IS : principes d'autorité, d'intimisation, d'acceptation sociale, de familiarité, de confiance, de caractère d'urgence et de peur
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **_B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque_**
 
   - Indicateurs de compromission : définition et exemples
 
 ### Séance 2 - Vendredi 08/09 (CS 2)
 
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie Sociale**
 
   - Dévoiement (notions d'empoisonnement DNS)
 
@@ -388,7 +388,7 @@
 
 - Présentation du programme du module 1
 
-- ***Module 1 Partie 1 : Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie Sociale**
 
   - Techniques d'hameçonnage, _phishing_, _smishing_, concepts de _spamming_, _vishing_, hameçonnage ciblé, attaque « Fraude au Président »
 
