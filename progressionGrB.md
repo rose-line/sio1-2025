@@ -1,14 +1,20 @@
 ## Progression du groupe B
 
+### Séance 25 - Jeudi 14/12 (CS 13)
+
+- **B3 Module 4 - Risques**
+
+  - TP « Protection des données à caractère personnel »
+
 ### Séance 24 - Mardi 12/12 (BDP 12)
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation d'un programme**
 
   - Implémentation en autonomie du problème « Jeu de l'oie V2 avec méthodes » ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v2-avec-methodes))
 
 ### Séance 23 - Jeudi 07/12 (BDP 11)
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - Analyse et implémentation de « Jeu de l'oie V1 avec méthodes » ([correction](https://github.com/rose-line/sio1_2025-b1-jeu-de-l-oie-v1-avec-methodes))
 
@@ -16,7 +22,7 @@
 
 ### Séance 22 - Mardi 05/12 (BDP 10)
 
-- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
+- **B3 Module 2.3 - Acteurs, vecteurs et ressources OSINT**
 
   - Vecteurs d'attaque
 
@@ -24,7 +30,7 @@
 
     - Cloud
 
-- ***B1 Module 3 - Modularisation d'un programme***
+- **B1 Module 3 - Modularisation**
 
   - Stucturation d'un algorithme :
 
@@ -46,7 +52,7 @@
 
     - Synthèse
 
-    - Flux d'exécution : notions d'*appelant* et de *pile d'appels* et de *retour*
+    - Flux d'exécution : notions d'_appelant_ et de _pile d'appels_ et de _retour_
 
     - Exercice « Quelle est la sortie ? » avec des méthodes
 
@@ -74,11 +80,12 @@
 
 ### Séance 21 - Jeudi 30/11 (CS 12)
 
-- ***B3 Module 4 - Acteurs, vecteurs et ressources OSINT***
+- **B3 Module 2.3 - Acteurs, vecteurs et ressources OSINT**
 
   - Acteurs
+
     - « *Script Kiddies* »
-    - *Hacktivistes*
+    - _Hacktivistes_
     - Crime organisé
     - Menaces avancées persistantes
     - Attaques internes
@@ -88,12 +95,12 @@
     - Accès direct
     - Sans-fil
     - Email
-    - *Supply chain*
+    - _Supply chain_
     - Réseaux sociaux
 
 ### Séance 20 - Mardi 28/11 (CS 11)
 
-- ***B3 Module 3 - Stratégies de défense***
+- **B3 Module 3 - Stratégies de défense**
 
   - Les grandes approches défensives
 
@@ -111,7 +118,7 @@
 
 - Interro B1 Module 2 - Instructions conditionnelles et répétitives
 
-- ***B3 Module 3 - Stratégies de défense***
+- **B3 Module 3 - Stratégies de défense**
 
   - Les grandes approches défensives
 
@@ -121,7 +128,7 @@
 
 ### Séance 18 - Mardi 21/11 (CS 09)
 
-- ***B3 Module 3 - Stratégies de défense***
+- **B3 Module 3 - Stratégies de défense**
 
   - Mentalité du défenseur et stratégie de défense
 
@@ -139,7 +146,7 @@
 
 ### Séance 17 - Jeudi 16/11 (BDP 09)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structure répétitives**
 
   - Correction des problèmes « Jeu de l'Oie » (V1, V2 et V3)
 
@@ -147,13 +154,13 @@
 
 ### Séance 16 - Mardi 14/11 (BDP 08)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structure répétitives**
 
   - Continuation de la séance précédente ; _commit_ et _push_ sur GitHub pour chaque version terminée.
 
 ### Séance 15 - Jeudi 09/11 (BDP 07)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structure répétitives**
 
   - Implémentation en autonomie du problème « Jeu de l'Oie » et de ses évolutions :
 
@@ -161,9 +168,9 @@
 
 Le jeu doit maintenant recommencer automatiquement autant de fois que nécessaire jusqu’à ce qu’on ait une simulation gagnante. C'est la même séquence de 5 coups de dés qui se répète jusqu'à ce qu'on gagne :
 
-  - on doit voir toutes les parties se dérouler ;
-  - cette fois on ne va pas faire de pause à chaque coup de dé (trop long : on ne sait pas combien de parties seront nécessaires pour gagner, et ce sera potentiellement long) ;
-  - la dernière partie visible sera donc la seule gagnante.
+- on doit voir toutes les parties se dérouler ;
+- cette fois on ne va pas faire de pause à chaque coup de dé (trop long : on ne sait pas combien de parties seront nécessaires pour gagner, et ce sera potentiellement long) ;
+- la dernière partie visible sera donc la seule gagnante.
 
 Le programme doit également afficher à la fin le nombre total de simulations qu’il a fallu pour gagner.
 
@@ -171,15 +178,15 @@ Le programme doit également afficher à la fin le nombre total de simulations q
 
 De nouveau, on ne va jouer qu'une seule partie. Mais cette fois, on lance le dé jusqu'à ce qu'on arrive pile à 20. Quand on dépasse 20, on « rebondit » en repartant en arrière, comme dans le vrai jeu. Par exemple :
 
-  - si on est sur la case 18 et qu'on fait 3, on atterrit sur la case 19 (2 pour aller à 20, 1 pour revenir à 19) ;
-  - si maintenant on fait 6, on atterrit sur la case 15 (1 pour aller à 20, 5 pour revenir à 15) ;
-  - si maintenant on fait 5, on atterrit sur la case 20 et le jeu s'arrête.
+- si on est sur la case 18 et qu'on fait 3, on atterrit sur la case 19 (2 pour aller à 20, 1 pour revenir à 19) ;
+- si maintenant on fait 6, on atterrit sur la case 15 (1 pour aller à 20, 5 pour revenir à 15) ;
+- si maintenant on fait 5, on atterrit sur la case 20 et le jeu s'arrête.
 
 En fin de partie, le programme doit afficher le nombre de lancers de dé qu'il a fallu pour gagner.
 
 ### Séance 14 - Mardi 07/11 (BDP 06)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.2 - Structures de contrôle - Structure répétitives**
 
   - Structures répétitives
 
@@ -191,14 +198,14 @@ En fin de partie, le programme doit afficher le nombre de lancers de dé qu'il a
 
     - Étude et implémentation du problème « Calcul du total d'un panier d'articles »
 
-    - *Pour la prochaine fois : implémenter le problème « Jeu de l'Oie »* (nouveau projet à mettre sur GitHub) dont voici les spécifications :
+    - _Pour la prochaine fois : implémenter le problème « Jeu de l'Oie »_ (nouveau projet à mettre sur GitHub) dont voici les spécifications :
 
 #### JEU DE L'OIE
 
-Le but est de parcourir les 20 cases du jeu avec 5 lancers d'un dé. Un dé à 6 faces sera donc lancé 5 fois. *On fait toujours les 5 lancers*.
+Le but est de parcourir les 20 cases du jeu avec 5 lancers d'un dé. Un dé à 6 faces sera donc lancé 5 fois. _On fait toujours les 5 lancers_.
 
-  - Si on arrive exactement à 20, on gagne.
-  - Si on est au-dessus ou en-dessous de 20, on perd.
+- Si on arrive exactement à 20, on gagne.
+- Si on est au-dessus ou en-dessous de 20, on perd.
 
 La simulation va nécessiter de générer des entiers au hasard (lancers de dé). Vous utiliserez un objet `Random` pour générer des entiers entre 1 et 6. Voici un morceau de code qui vous permet de générer un entier entre 1 et 6 et de ranger le résultat dans une variable `lancer` :
 
@@ -235,11 +242,13 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 - [Correction](bloc1/B1_BDP_M1_GB_20231012_correction.java) de l'interro [B1_BDP_M1_GB_20231012](bloc1/B1_BDP_M1_GB_20231012_sujet.adoc) Introduction à la programmation
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structure conditionnelles**
 
   - Structures conditionnelles
 
-    - Correction du problème « d'obtention conditionnée d'un prêt bancaire » 
+    - Correction du problème « d'obtention conditionnée d'un prêt bancaire »
+
+- **B1 Module 2.2 - Structures de contrôle - Structure répétitives**
 
   - Structures répétitives
 
@@ -253,7 +262,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 12 - Mardi 17/10 (BDP 04)
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structure conditionnelles**
 
   - Gestion de versions avec Git
 
@@ -287,7 +296,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 - **Interro B1_BDP_M1_GB_20231012 : Introduction à la programmation**
 
-- ***B1 Module 2 - Bases de la programmation***
+- **B1 Module 2.1 - Structures de contrôle - Structure conditionnelles**
 
   - Structures conditionnelles
 
@@ -305,7 +314,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séances 10 - Mardi 10/10 (BDP 02)
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Présentation du langage Java
 
@@ -317,7 +326,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 9 - Jeudi 05/10 (BDP 01)
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Notions d'_ordinateur_, de _programme_, de _langage de programmation_, de _code source_
 
@@ -333,7 +342,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 8 - Mardi 03/10 (CS 08)
 
-- ***B3 Module 1 Partie 3 - Attaques réseau***
+- **B3 Module 2.2 - Attaques réseau**
 
   - Attaque _Man in the Browser_
 
@@ -343,7 +352,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Attaque en déni de service distribuée (_DDoS_)
 
-- ***B1 Module 1 - Introduction à la programmation***
+- **B1 Module 1 - Introduction à la programmation**
 
   - Installation et mise en place de l'environnement de développement (_Visual Studio Code_)
 
@@ -353,15 +362,15 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 - **Interro B3_S1_INT01_20230928 : Module 1 - Partie 1 et 2**
 
-- ***B3 Module 1 Partie 3 - Attaques réseau***
+- **B3 Module 2.2 - Attaques réseau**
 
   - Standards de chiffrement Wi-Fi
 
   - Attaque de vecteur d'initialisation
 
-### Séance 6 - Mardi 26/09  (CS 06)
+### Séance 6 - Mardi 26/09 (CS 06)
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Attaque de la chaîne logistisque (_supply chain_)
 
@@ -369,7 +378,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Rançongiciel (_ransomware_)
 
-- ***B3 Module 1 Partie 3 - Attaques réseau***
+- **B3 Module 2.2 - Attaques réseau**
 
   - Attaque de l'homme du milieu (_MitM_)
 
@@ -395,7 +404,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 5 - Mardi 19/09 (CS 05)
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Examen de plusieurs types de malwares :
 
@@ -419,7 +428,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 4 - Jeudi 14/09 (CS 04)
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Malwares : généralités
 
@@ -439,7 +448,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 ### Séance 3 - Mardi 12/09 (CS 03)
 
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie sociale**
 
   - Typosquattage
 
@@ -451,13 +460,13 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
   - Efficacité de l'IS : principes d'autorité, d'intimisation, d'acceptation sociale, de familiarité, de confiance, de caractère d'urgence et de peur
 
-- ***B3 Module 1 Partie 2 - Malwares et autres schémas d'attaque***
+- **B3 Module 2.1 - Malwares et autres schémas d'attaque**
 
   - Indicateurs de compromission : définition et exemples
 
-### Séance 2 -  Jeudi 07/09 (CS 02)
+### Séance 2 - Jeudi 07/09 (CS 02)
 
-- ***B3 Module 1 Partie 1 - Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie sociale**
 
   - Dévoiement (notions d'empoisonnement DNS)
 
@@ -473,7 +482,7 @@ On souhaite que le programme fasse une pause après chaque lancer (chaque ligne)
 
 - Présentation du programme du module 1
 
-- ***B3 Module 1 Partie 1 : Ingénierie Sociale***
+- **B3 Module 1 - Ingénierie sociale**
 
   - Techniques d'hameçonnage, _phishing_, _smishing_, concepts de _spamming_, _vishing_, hameçonnage ciblé, attaque « Fraude au Président »
 
