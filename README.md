@@ -22,7 +22,7 @@ Le BTS SIO comporte trois blocs de compétences :
 
 ## Les modules
 
-À l'intérieur des trois blocs, les cours sont organisés en **modules**. Cela signifie notamment que l'on va travailler *exclusivement* sur un module pendant plusieurs heures ou plusieurs semaines d'affilée (en fonction de la « taille » du module). Ainsi, lorsque nous abordons par exemple un module de cybersécurité, nous savons que nous ne ferons ensemble *que ça* jusqu'à ce que le module soit terminé. Et ceci même si nous avons ensemble, dans la semaine, des cours avec des intitulés différents. Cela réduit les risques de « dispersion » : il est plus facile d'appréhender les notions dans leur contexte lorsque ce contexte ne change pas constamment.
+À l'intérieur des trois blocs, les cours sont organisés en **modules**. Cela signifie notamment que l'on va travailler _exclusivement_ sur un module pendant plusieurs heures ou plusieurs semaines d'affilée (en fonction de la « taille » du module). Ainsi, lorsque nous abordons par exemple un module de cybersécurité, nous savons que nous ne ferons ensemble _que ça_ jusqu'à ce que le module soit terminé. Et ceci même si nous avons ensemble, dans la semaine, des cours avec des intitulés différents. Cela réduit les risques de « dispersion » : il est plus facile d'appréhender les notions dans leur contexte lorsque ce contexte ne change pas constamment.
 
 ### Modules associés au _B1 Support et mise à disposition de services informatiques_
 
@@ -32,11 +32,13 @@ Le BTS SIO comporte trois blocs de compétences :
 
 ### Modules associés au _B2 Spécialité SLAM_
 
-Les modules de *B2 Spécialité SLAM* débutent au semestre 2.
+Les modules de _B2 Spécialité SLAM_ débutent au semestre 2.
+
+- [B2 semestre 2](bloc2/s2.md)
 
 ### Modules associés au _B3 Cybersécurité_
 
-Le module 1 de *B3 Cybersécurité* débute à la rentrée.
+Le module 1 de _B3 Cybersécurité_ débute à la rentrée.
 
 - [B3 semestre 1](bloc3/s1.md)
 
