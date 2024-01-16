@@ -15,7 +15,7 @@ Le rendu va consister à fournir au professeur votre dépôt de travail, que vou
 - Vous ajouterez le compte GitHub `rose-line` en tant que collaborateur : cela enverra automatiquement une notification sur le compte en question
 - Vous committerez vos réponses au fur et à mesure, quand vous le souhaitez, sans oublier de « pousser » (_push_) vos modifications en ligne à la fin de la séance
 
-D'autre part, à chaque étape marquée, vous ferez valider votre progression par le professeur durant la séance.
+D'autre part, à chaque étape marquée **_VALIDATION PROF_**, vous ferez valider votre progression par le professeur durant la séance.
 
 ## Prérequis
 
