@@ -28,7 +28,7 @@ Le BTS SIO comporte trois blocs de compétences :
 
 - [B1 semestre 1](bloc1/s1.md)
 
-- B1 semestre 2
+- [B1 semestre 2](bloc1/s2.md)
 
 ### Modules associés au _B2 Spécialité SLAM_
 
