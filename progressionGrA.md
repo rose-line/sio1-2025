@@ -1,5 +1,13 @@
 ## Progression groupe A
 
+### Séance 27 - Vendredi 12/01/2024 (BDP 15)
+
+- Correction du partiel _B1 Bases de la programmation_
+
+### Séance 26 - Jeudi 11/01/2024 (CS 12)
+
+- Correction du partiel _B3 Cybersécurité_
+
 ### Séance 25 - Jeudi 14/12 (CS 11)
 
 - **B3 Module 4 - Risques**
