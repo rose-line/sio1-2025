@@ -2,11 +2,17 @@
 
 Ce dépôt contiendra les ressources et les progressions associées aux cours de Bloc 1, 2 et 3 spécifiés ci-dessous.
 
-## Progression des groupes (1er semestre)
+## Progression des groupes - Semestre 1
 
 - [Progression du groupe A](progressionGrA.md)
 
 - [Progression du groupe B](progressionGrB.md)
+
+## Progression des groupes - Semestre 2
+
+- [Progression du groupe SLAM](progressionSLAM.md)
+
+- [Progression du groupe SISR](progressionSISR.md)
 
 ## Les trois blocs de compétences du BTS SIO
 
