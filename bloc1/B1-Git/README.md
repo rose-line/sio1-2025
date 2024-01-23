@@ -23,20 +23,22 @@ Le nécessaire a déjà été installé au premier semestre. Revoir les procédu
 
 - Visual Studio Code
 - Git (_Git Bash_ est normalement également installé en même temps)
-- Configuration de base (`user.name` et `user.email`)
+- Configuration de base (`user.name` et `user.email`) :
+  - si ce n'est pas fait, Git vous le rappellera lors de la tentative de premier _commit_
+  - et vous donnera les commandes à exécuter pour la configuration (spécifier votre identifiant et votre email GitHub)
 
 ## Éditeur VI
 
 Git aura parfois besoin d'ouvrir un éditeur de texte. Par défaut, l'éditeur de texte fourni avec _Git Bash_ est `vi`, qui est assez spartiate. C'est l'éditeur de texte fourni sur la quasi totalité des distributions Linux, et il est donc utile de connaître un minimum les commandes de base pour pouvoir l'utiliser (parfois c'est le seul éditeur dont on dispose sur un terminal, un serveur distant...).
 
-À savoir pour l'utilisation de `vi` :
+Il n'y a que quatre choses à savoir (mais il faut les savoir par coeur) :
 
-- `i` pour passer en mode _insertion_ (le mode par défaut est _commande_, dans lequel vous ne pouvez pas écritre de texte)
-- `Esc` (touche `Echap` du clavier) pour revenir au mode _commande_
+- `i` pour passer en mode _insertion_ (le mode par défaut est _commande_, dans lequel vous ne pouvez pas écrire de texte) ; on peut alors éditer le fichier
+- `Esc` (touche `Echap` du clavier) pour revenir au mode _commande_ lorsque l'on a fini d'éditer
 - `:wq!` pour enregistrer et quitter (_**w**rite_ et _**q**uit_)
 - `:q!` pour quitter sans enregistrer
 
-Il faut donc passer en mode _insertion_ pour éditer le fichier, puis revenir en mode _commande_ pour enregistrer et quitter.
+Il faut donc toujours passer en mode _insertion_ pour éditer le fichier, puis revenir en mode _commande_ pour enregistrer et quitter.
 
 NB : Vous pouvez configurer Git pour utiliser un autre éditeur, par exemple VS Code :
 
