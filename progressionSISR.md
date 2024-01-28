@@ -4,7 +4,7 @@
 
 - **Module B1-Git - Gestion de source avec Git**
 
-  - TP *Gestion de versions avec Git* : démarrage parties 1 et 2
+  - TP *Gestion de versions avec Git* : démarrage parties 1-3
 
 ### Vendredi 19/01/2024
 
