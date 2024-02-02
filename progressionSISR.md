@@ -1,5 +1,11 @@
 ## Progression du groupe SISR (Bloc 1 semestre 2)
 
+### Séance 2 - Vendredi 02/02
+
+- **Module B1-Git - Gestion de source avec Git**
+
+  - TP *Gestion de versions avec Git* : suite
+
 ### Séance 1 - Vendredi 26/01/2024
 
 - **Module B1-Git - Gestion de source avec Git**
