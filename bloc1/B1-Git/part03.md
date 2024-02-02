@@ -69,3 +69,5 @@ _Cette partie est à faire sur le même dépôt que la partie précédente. C'es
   - Tâche terminée ? => fusion dans la branche d'intégration et suppression de la branche
 
 - Supprimer les trois branches `fonctionnalitex` (attention : on ne peut pas supprimer une branche sur laquelle on est)
+
+- **_VALIDATION PROF05_**
