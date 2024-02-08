@@ -1,5 +1,9 @@
 ## Progression du groupe SLAM (Bloc 1 semestre 2)
 
+### Séance 3 - Mardi 06/02
+
+- **Module B1-Git - Gestion de source avec Git**
+
 ### Séance 2 - Mardi 23/01
 
 - **Module B1-Git - Gestion de source avec Git**
