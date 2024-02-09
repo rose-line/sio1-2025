@@ -55,3 +55,4 @@ Vous utiliserez notamment ce [résumé des commandes Git les plus utilisées](co
 - [Partie 1](part01.md) : Création d'un dépôt et _commits_
 - [Partie 2](part02.md) : Gestion de branches
 - [Partie 3](part03.md) : Fusion de branches
+- [Partie 4](part04.md) : Travailler avec un dépôt distant

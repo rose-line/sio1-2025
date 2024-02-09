@@ -1,6 +1,6 @@
 ## Partie 4 - Travailler avec un dépôt distant (_remote_)
 
-- Faire un _fork_ du dépôt https://github.com/rose-line/sio1-2024-java-grpa (pas par commande Git, c'est sur l'interface GitHub)
+- Faire un _fork_ du dépôt https://github.com/rose-line/sio1-2024-java-grpb (pas par commande Git, c'est sur l'interface GitHub)
 
 - Cloner localement votre _fork_ (**ne pas cloner le dépôt original**)
 
