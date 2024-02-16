@@ -1,5 +1,21 @@
 ## Progression du groupe SLAM (Bloc 3 semestre 2)
 
+### Séance 4 - Jeudi 15/02
+
+- **Module B3-M04 - Cryptographie**
+
+  - Cryptographie : Algorithme et déploiement
+
+    - Cycle de vie d'un algorithme cryptographique
+
+    - Algos symétriques : DES, 2DES, 3DES, AES
+
+    - Algos asymétriques : RSA, ECC
+
+    - Algos de hachage : MD5, SHA-1, SHA-2, SHA-3
+
+- **_Interro écrite prévue le 22/02 : Module B3-M4 - Cryptographie_**
+
 ### Séance 3 - Jeudi 08/02
 
 - **Module B3-M04 - Cryptographie**
@@ -23,8 +39,6 @@
     - *Signature numérique* : hachage + chiffrement asymétrique
 
     - Illustration assurant l'intégrité et l'origine grâce à la signature numérique
-
-  - Interro écrite prévue le 15/02 : les trois types de crypto-systèmes
 
 ### Séance 2 - Jeudi 01/02
 
