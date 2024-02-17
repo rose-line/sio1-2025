@@ -1,5 +1,13 @@
 ## Progression du groupe SISR (Bloc 1 semestre 2)
 
+### Vendredi 23/02
+
+Séance annulée (CCF)
+
+### Vendredi 16/02
+
+Séance annulée (CCF)
+
 ### Séance 3 - Vendredi 09/02
 
 - **Module B1-Git - Gestion de source avec Git**
