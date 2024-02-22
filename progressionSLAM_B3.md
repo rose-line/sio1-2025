@@ -1,5 +1,9 @@
 ## Progression du groupe SLAM (Bloc 3 semestre 2)
 
+### Séance 5 - Jeudi 22/02
+
+- **_Interro écrite : Module B3-M4 - Cryptographie_**
+
 ### Séance 4 - Jeudi 15/02
 
 - **Module B3-M04 - Cryptographie**
