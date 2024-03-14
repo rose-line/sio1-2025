@@ -48,4 +48,4 @@ Le module 1 de _B3 Cybersécurité_ débute à la rentrée.
 
 - [B3 semestre 1](bloc3/s1.md)
 
-- B3 semestre 2
+- [B3 semestre 2](bloc3/s2.md)
