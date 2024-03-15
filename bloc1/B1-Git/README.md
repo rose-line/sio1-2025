@@ -56,3 +56,4 @@ Vous utiliserez notamment ce [résumé des commandes Git les plus utilisées](co
 - [Partie 2](part02.md) : Gestion de branches
 - [Partie 3](part03.md) : Fusion de branches
 - [Partie 4](part04.md) : Travailler avec un dépôt distant
+- [Partie 4](part05.md) : Travailler en collaboration avec GitHub
