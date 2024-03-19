@@ -1,5 +1,9 @@
 ## Progression du groupe SLAM (Bloc 3 semestre 2)
 
+### Séance 6 - Jeudi 14/03
+
+- [TP OpenSSL](https://github.com/rose-line/sio2025-b3-openssl)
+
 ### Séance 5 - Jeudi 22/02
 
 - **_Interro écrite : Module B3-M4 - Cryptographie_**
