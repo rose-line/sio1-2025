@@ -1,5 +1,13 @@
 ## Progression du groupe SISR (Bloc 1 semestre 2)
 
+### Séance 4 - Vendredi 15/03
+
+- **Module B1-Git - Gestion de source avec Git**
+
+  - TP *Gestion de versions avec Git* : suite et ajout partie 5
+
+- Interro prévue le 22/03 sur les parties 1, 2, 3
+
 ### Vendredi 23/02
 
 Séance annulée (CCF)
