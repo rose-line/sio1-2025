@@ -2,7 +2,7 @@
 
 ### Séance 7 - Mardi 19/03
 
-- Interro : Gestion de source avec Git (B1_GIT_20240319)
+- Interro : Gestion de source avec Git (B1__S2_GIT_20240319)
 
 ### Séance 6 - Mardi 12/03
 
